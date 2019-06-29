@@ -1,0 +1,935 @@
+comb08,comb08U,combE,displ,drive,fuelType,fuelType1,id,make,model,VClass,year,atvType,evMotor,createdOn,modifiedOn
+85,0,40,,,Electricity,Electricity,16423,Nissan,Altra EV,Midsize Station Wagons,2000,EV,62 KW AC Induction,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+72,0,47,,2-Wheel Drive,Electricity,Electricity,16424,Toyota,RAV4 EV,Sport Utility Vehicle - 2WD,2000,EV,50 KW DC,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+72,0,47,,2-Wheel Drive,Electricity,Electricity,17328,Toyota,RAV4 EV,Sport Utility Vehicle - 2WD,2001,EV,50 KW DC,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+65,0,52,,,Electricity,Electricity,17329,Ford,Th!nk,Two Seaters,2001,EV,27 KW AC Induction,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+39,0,87,,2-Wheel Drive,Electricity,Electricity,17330,Ford,Explorer USPS Electric,Sport Utility Vehicle - 2WD,2001,EV,67 KW AC Induction,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+75,0,45,,,Electricity,Electricity,17331,Nissan,Hyper-Mini,Two Seaters,2001,EV,24 KW AC Synchronous,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+78,0,43,,2-Wheel Drive,Electricity,Electricity,18290,Toyota,RAV4 EV,Sport Utility Vehicle - 2WD,2002,EV,50 KW DC,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+39,0,87,,2-Wheel Drive,Electricity,Electricity,18291,Ford,Explorer USPS Electric,Sport Utility Vehicle - 2WD,2002,EV,67 KW AC Induction,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+78,0,43,,2-Wheel Drive,Electricity,Electricity,19296,Toyota,RAV4 EV,Sport Utility Vehicle - 2WD,2003,EV,50 KW DC,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+58,0,58,,2-Wheel Drive,Electricity,Electricity,30965,Ford,Ranger Pickup 2WD,Standard Pickup Trucks 2WD,2001,EV,67 KW AC  Induction,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+58,0,58,,2-Wheel Drive,Electricity,Electricity,30966,Ford,Ranger Pickup 2WD,Standard Pickup Trucks 2WD,2000,EV,67 KW AC,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+56,0,60,,2-Wheel Drive,Electricity,Electricity,30967,Ford,Ranger Pickup 2WD,Standard Pickup Trucks 2WD,2000,EV,67 KW AC,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+85,0,40,,,Electricity,Electricity,30968,GMC,EV1,Two Seaters,1999,EV,102kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+37,0,91,,,Electricity,Electricity,30969,GMC,EV1,Two Seaters,1999,EV,102kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+48,0,71,,,Electricity,Electricity,30970,Honda,EV Plus,Compact Cars,1999,EV,49kW DC Brushless,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+58,0,58,,2-Wheel Drive,Electricity,Electricity,30971,Ford,Ranger Pickup 2WD,Standard Pickup Trucks 2WD,1999,EV,67 KW AC  Induction,Tue Jan 01 00:00:00 EST 2013,Tue Apr 10 00:00:00 EDT 2018
+47,0,72,,2-Wheel Drive,Electricity,Electricity,30972,Ford,Ranger Pickup 2WD,Standard Pickup Trucks 2WD,1999,EV,67 KW AC,Tue Jan 01 00:00:00 EST 2013,Tue Apr 10 00:00:00 EDT 2018
+35,0,96,,2-Wheel Drive,Electricity,Electricity,30973,Dodge,Caravan/Grand Caravan 2WD,Minivan - 2WD,1999,EV,56kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+35,0,96,,Front-Wheel Drive,Electricity,Electricity,30974,Plymouth,Voyager/Grand Voyager 2WD,Minivan - 2WD,1999,EV,56kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+48,0,71,,,Electricity,Electricity,30975,Honda,EV Plus,Compact Cars,1998,EV,49 kW DC Brushless,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+55,0,62,,2-Wheel Drive,Electricity,Electricity,30976,Chevrolet,S10 Electric,Small Pickup Trucks 2WD,1998,EV,85 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+28,0,121,,2-Wheel Drive,Electricity,Electricity,30977,Chevrolet,S10 Electric,Small Pickup Trucks 2WD,1998,EV,85 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Fri Apr 11 00:00:00 EDT 2014
+98,0,34,,,Electricity,Electricity,30978,MINI,MiniE,Minicompact Cars,2008,EV,150 kW,Tue Jan 01 00:00:00 EST 2013,Thu Jul 07 00:00:00 EDT 2016
+99,0,34,,Front-Wheel Drive,Electricity,Electricity,30979,Nissan,Leaf,Midsize Cars,2011,EV,80 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+87,0,39,,Rear-Wheel Drive,Electricity,Electricity,31064,smart,fortwo electric drive cabriolet,Two Seaters,2011,EV,30 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+87,0,39,,Rear-Wheel Drive,Electricity,Electricity,31065,smart,fortwo electric drive coupe,Two Seaters,2011,EV,30 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+112,112.2,30,,Rear-Wheel Drive,Electricity,Electricity,31673,Mitsubishi,i-MiEV,Subcompact Cars,2012,EV,49 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+62,62,54,,Front-Wheel Drive,Electricity,Electricity,31893,Azure Dynamics,Transit Connect Electric Van,Special Purpose Vehicle 2WD,2012,EV,52 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+62,62,54,,Front-Wheel Drive,Electricity,Electricity,31894,Azure Dynamics,Transit Connect Electric Wagon,Special Purpose Vehicle 2WD,2012,EV,52 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+99,0,34,,Front-Wheel Drive,Electricity,Electricity,32154,Nissan,Leaf,Midsize Cars,2012,EV,80 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+102,101.822,33,,Rear-Wheel Drive,Electricity,Electricity,32276,BMW,Active E,Subcompact Cars,2011,EV,125 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+73,72.7,46,,Front-Wheel Drive,Electricity,Electricity,32277,CODA Automotive,CODA,Subcompact Cars,2012,EV,100 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+105,104.758,32,,Front-Wheel Drive,Electricity,Electricity,32278,Ford,Focus Electric,Compact Cars,2012,EV,107 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+89,88.8,38,,Rear-Wheel Drive,Electricity,Electricity,32557,Tesla,Model S,Large Cars,2012,EV,260 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+105,104.7587,32,,Front-Wheel Drive,Electricity,Electricity,33024,Ford,Focus Electric,Compact Cars,2013,EV,107 kW AC PMSM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+118,118.142,29,,Front-Wheel Drive,Electricity,Electricity,33265,Honda,Fit EV,Small Station Wagons,2013,EV,92 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+107,106.9856,32,,Rear-Wheel Drive,Electricity,Electricity,33305,smart,fortwo electric drive convertible,Two Seaters,2013,EV,55 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+107,106.9856,32,,Rear-Wheel Drive,Electricity,Electricity,33306,smart,fortwo electric drive coupe,Two Seaters,2013,EV,55 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+121,120.913,28,,Front-Wheel Drive,Electricity,Electricity,33307,Scion,iQ EV,Minicompact Cars,2013,EV,,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+76,76.169,44,,Front-Wheel Drive,Electricity,Electricity,33308,Toyota,RAV4 EV,Sport Utility Vehicle - 2WD,2012,EV,115 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+73,72.7,46,,Front-Wheel Drive,Electricity,Electricity,33337,CODA Automotive,CODA,Subcompact Cars,2013,EV,100 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+112,112.2077,30,,Rear-Wheel Drive,Electricity,Electricity,33358,Mitsubishi,i-MiEV,Subcompact Cars,2013,EV,49 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+95,95.4,35,,Rear-Wheel Drive,Electricity,Electricity,33367,Tesla,Model S (60 kW-hr battery pack),Large Cars,2013,EV,225 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+89,88.8,38,,Rear-Wheel Drive,Electricity,Electricity,33368,Tesla,Model S (85 kW-hr battery pack),Large Cars,2013,EV,270 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+62,61.9394,54,,Front-Wheel Drive,Electricity,Electricity,33383,BYD,e6,Sport Utility Vehicle - 2WD,2012,EV,75 kW AC PMSM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+116,115.974,29,,Front-Wheel Drive,Electricity,Electricity,33396,Fiat,500e,Minicompact Cars,2013,EV,82 kW ACIPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+76,76.169,44,,Front-Wheel Drive,Electricity,Electricity,33397,Toyota,RAV4 EV,Small Sport Utility Vehicle 2WD,2013,EV,115 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+115,115.4934,29,,Front-Wheel Drive,Electricity,Electricity,33558,Nissan,Leaf,Midsize Cars,2013,EV,80 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+94,94.3,36,,Rear-Wheel Drive,Electricity,Electricity,33612,Tesla,Model S (40 kW-hr battery pack),Large Cars,2013,EV,225 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+119,118.9,28,,Front-Wheel Drive,Electricity,Electricity,33640,Chevrolet,Spark EV,Subcompact Cars,2014,EV,104 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+118,118.142,29,,Front-Wheel Drive,Electricity,Electricity,33905,Honda,Fit EV,Small Station Wagons,2014,EV,92 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+105,104.7587,32,,Front-Wheel Drive,Electricity,Electricity,34130,Ford,Focus Electric,Compact Cars,2014,EV,107 kW AC PMSM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+116,115.974,29,,Front-Wheel Drive,Electricity,Electricity,34392,Fiat,500e,Minicompact Cars,2014,EV,82 kW ACIPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+107,106.9856,32,,Rear-Wheel Drive,Electricity,Electricity,34393,smart,fortwo electric drive convertible,Two Seaters,2014,EV,55 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+107,106.9856,32,,Rear-Wheel Drive,Electricity,Electricity,34394,smart,fortwo electric drive coupe,Two Seaters,2014,EV,55 kW DCPM,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+76,76.169,44,,Front-Wheel Drive,Electricity,Electricity,34425,Toyota,RAV4 EV,Small Sport Utility Vehicle 2WD,2014,EV,115 kW AC Induction,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+114,113.7879,30,,Front-Wheel Drive,Electricity,Electricity,34699,Nissan,Leaf,Midsize Cars,2014,EV,80 kW DCPM,Wed Jan 22 00:00:00 EST 2014,Mon Sep 26 00:00:00 EDT 2016
+89,88.8,38,,Rear-Wheel Drive,Electricity,Electricity,34775,Tesla,Model S (85 kW-hr battery pack),Large Cars,2014,EV,270 kW AC Induction (85 kW-hr battery pack),Mon Mar 10 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+95,95.4,35,,Rear-Wheel Drive,Electricity,Electricity,34776,Tesla,Model S (60 kW-hr battery pack),Large Cars,2014,EV,225 kW AC Induction (60 kW-hr battery pack),Mon Mar 10 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+63,62.9357,54,,Front-Wheel Drive,Electricity,Electricity,34859,BYD,e6,Small Sport Utility Vehicle 2WD,2014,EV,75 kW AC PMSM,Wed Apr 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+63,62.9357,54,,Front-Wheel Drive,Electricity,Electricity,34860,BYD,e6,Small Sport Utility Vehicle 2WD,2013,EV,75 kW AC PMSM,Wed Apr 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+112,112.2077,30,,Rear-Wheel Drive,Electricity,Electricity,34901,Mitsubishi,i-MiEV,Subcompact Cars,2014,EV,49 kW DCPM,Mon May 05 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+114,113.7816,29.6225,,Front-Wheel Drive,Electricity,Electricity,34918,Nissan,Leaf,Midsize Cars,2015,EV,80 kW DCPM,Wed May 14 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+119,118.9,28.3449,,Front-Wheel Drive,Electricity,Electricity,35120,Chevrolet,Spark EV,Subcompact Cars,2015,EV,104 kW ACPM,Mon Jun 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+116,115.974,29.1733,,Front-Wheel Drive,Electricity,Electricity,35206,Fiat,500e,Minicompact Cars,2015,EV,82 kW AC Induction,Thu Jun 26 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+124,124.3601,27,,Rear-Wheel Drive,Electricity,Electricity,35207,BMW,i3 BEV,Subcompact Cars,2014,EV,125 kW AC Induction,Fri Jun 27 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+84,83.7634,40,,Front-Wheel Drive,Electricity,Electricity,35247,Mercedes-Benz,B-Class Electric Drive,Midsize Cars,2014,EV,132 kW AC Induction,Mon Jul 07 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+105,105.3754,31.9856,,Front-Wheel Drive,Electricity,Electricity,35601,Kia,Soul Electric,Small Station Wagons,2015,EV,81 kW AC PMSM,Wed Aug 27 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+116,115.5536,29.1683,,Front-Wheel Drive,Electricity,Electricity,35849,Volkswagen,e-Golf,Compact Cars,2015,EV,85 kW AC PMSM,Thu Oct 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+107,106.9856,31.5042,,Rear-Wheel Drive,Electricity,Electricity,35858,smart,fortwo electric drive convertible,Two Seaters,2015,EV,55 kW DCPM,Thu Oct 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+107,106.9856,31.5042,,Rear-Wheel Drive,Electricity,Electricity,35859,smart,fortwo electric drive coupe,Two Seaters,2015,EV,55 kW DCPM,Thu Oct 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+84,83.7887,40,,Front-Wheel Drive,Electricity,Electricity,35960,Mercedes-Benz,B-Class Electric Drive,Midsize Cars,2015,EV,132 kW AC Induction,Wed Dec 17 00:00:00 EST 2014,Mon Sep 26 00:00:00 EDT 2016
+105,104.7718,32,,Front-Wheel Drive,Electricity,Electricity,35970,Ford,Focus Electric,Compact Cars,2015,EV,107 kW AC PMSM,Thu Dec 18 00:00:00 EST 2014,Mon Sep 26 00:00:00 EDT 2016
+89,88.8,38,,Rear-Wheel Drive,Electricity,Electricity,35980,Tesla,Model S (85 kW-hr battery pack),Large Cars,2015,EV,270 kW AC Induction (85 kW-hr battery pack),Tue Jan 06 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+89,89.3,38,,4-Wheel Drive,Electricity,Electricity,35994,Tesla,Model S AWD (85 kW-hr battery pack),Large Cars,2014,EV,180 and 350 kW AC Induction (85 kW-hr battery pack),Mon Jan 12 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+93,92.9112,36,,All-Wheel Drive,Electricity,Electricity,36008,Tesla,Model S AWD - P85D,Large Cars,2015,EV,164 (front) 350 (rear) (85 kW-hr battery pack),Thu Jan 22 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+100,99.8433,34,,All-Wheel Drive,Electricity,Electricity,36009,Tesla,Model S AWD - 85D,Large Cars,2015,EV,140 (front) 140 (rear) (85 kW-hr battery pack),Thu Jan 22 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+124,124.3601,27,,Rear-Wheel Drive,Electricity,Electricity,36016,BMW,i3 BEV,Subcompact Cars,2015,EV,125 kW AC Induction,Tue Jan 27 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+95,95.4404,35,,Rear-Wheel Drive,Electricity,Electricity,36017,Tesla,Model S (60 kW-hr battery pack),Large Cars,2015,EV,225 kW AC Induction (60 kW-hr battery pack),Tue Jan 27 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+112,112.2077,30,0,Rear-Wheel Drive,Electricity,Electricity,36023,Mitsubishi,i-MiEV,Subcompact Cars,2016,EV,49 kW DCPM,Fri Feb 06 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+101,101.2486,33,,All-Wheel Drive,Electricity,Electricity,36126,Tesla,Model S AWD - 70D,Large Cars,2015,EV,140 (front) 140 (rear) (70 kW-hr battery pack),Mon Apr 06 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+105,105.3754,31.9856,,Front-Wheel Drive,Electricity,Electricity,36553,Kia,Soul Electric,Small Station Wagons,2016,EV,81 kW AC PMSM,Tue Jul 14 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+100,99.8433,34,,All-Wheel Drive,Electricity,Electricity,36786,Tesla,Model S AWD - 90D,Large Cars,2015,EV,140 (front) 140 (rear) (90 kW-hr battery pack),Thu Aug 06 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+93,92.9112,36,,All-Wheel Drive,Electricity,Electricity,36787,Tesla,Model S AWD - P90D,Large Cars,2015,EV,164 (front) 350 (rear) (90 kW-hr battery pack),Thu Aug 06 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+116,115.521,29.1765,,Front-Wheel Drive,Electricity,Electricity,36834,Volkswagen,e-Golf,Compact Cars,2016,EV,85 kW AC PMSM,Tue Aug 18 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+107,106.9856,31.5042,,Rear-Wheel Drive,Electricity,Electricity,36860,smart,fortwo electric drive convertible,Two Seaters,2016,EV,55 kW DCPM,Wed Aug 26 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+107,106.9856,31.5042,,Rear-Wheel Drive,Electricity,Electricity,36861,smart,fortwo electric drive coupe,Two Seaters,2016,EV,55 kW DCPM,Wed Aug 26 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+105,104.7718,32,,Front-Wheel Drive,Electricity,Electricity,36978,Ford,Focus Electric,Compact Cars,2016,EV,107 kW AC PMSM,Fri Sep 25 00:00:00 EDT 2015,Fri Dec 16 00:00:00 EST 2016
+92,92.084,37,,All-Wheel Drive,Electricity,Electricity,36979,Tesla,Model X AWD - 90D,Standard Sport Utility Vehicle 4WD,2016,EV,193 (front) 193 (rear) (90 kW-hr battery pack),Fri Sep 25 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+89,89.1811,38,,All-Wheel Drive,Electricity,Electricity,36980,Tesla,Model X AWD - P90D,Standard Sport Utility Vehicle 4WD,2016,EV,193 (front) 375 (rear) (90 kW-hr battery pack),Fri Sep 25 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+119,118.9,28.3449,,Front-Wheel Drive,Electricity,Electricity,36996,Chevrolet,Spark EV,Subcompact Cars,2016,EV,105 kW ACPM,Fri Oct 02 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+84,83.7887,40.2262,,Front-Wheel Drive,Electricity,Electricity,36997,Mercedes-Benz,B250e,Midsize Cars,2016,EV,132 kW AC Induction,Fri Oct 02 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+114,113.6836,29.6496,,Front-Wheel Drive,Electricity,Electricity,37066,Nissan,Leaf (24 kW-hr battery pack),Midsize Cars,2016,EV,80 kW DCPM,Mon Oct 19 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+112,112.4312,29.9829,,Front-Wheel Drive,Electricity,Electricity,37067,Nissan,Leaf (30 kW-hr battery pack),Midsize Cars,2016,EV,80 kW DCPM,Mon Oct 19 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+112,112.4374,29.9767,,Front-Wheel Drive,Electricity,Electricity,37156,Fiat,500e,Minicompact Cars,2016,EV,82 kW AC Induction,Wed Dec 02 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+124,124.3601,27,,Rear-Wheel Drive,Electricity,Electricity,37216,BMW,i3 BEV,Subcompact Cars,2016,EV,125 kW AC Induction,Tue Jan 05 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+89,88.8676,38,,Rear-Wheel Drive,Electricity,Electricity,37233,Tesla,Model S (70 kW-hr battery pack),Large Cars,2016,EV,285 kW AC Induction (70 kW-hr battery pack),Thu Jan 21 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+89,88.8,38,,Rear-Wheel Drive,Electricity,Electricity,37234,Tesla,Model S (85 kW-hr battery pack),Large Cars,2016,EV,285 kW AC Induction (85 kW-hr battery pack),Thu Jan 21 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+89,88.8876,38,,Rear-Wheel Drive,Electricity,Electricity,37235,Tesla,Model S (90 kW-hr battery pack),Large Cars,2016,EV,285 kW AC Induction (90 kW-hr battery pack),Thu Jan 21 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+89,88.8876,38,,Rear-Wheel Drive,Electricity,Electricity,37236,Tesla,Model S (90 kW-hr battery pack),Large Cars,2015,EV,285 kW AC Induction (90 kW-hr battery pack),Thu Jan 21 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+101,101.2486,33,,All-Wheel Drive,Electricity,Electricity,37238,Tesla,Model S AWD - 70D,Large Cars,2016,EV,193 (front) 193 (rear) (70 kW-hr battery pack),Thu Jan 28 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+100,99.8433,34,,All-Wheel Drive,Electricity,Electricity,37239,Tesla,Model S AWD - 85D,Large Cars,2016,EV,193 (front) 193 (rear) (85 kW-hr battery pack),Thu Jan 28 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+103,103.3087,33,,All-Wheel Drive,Electricity,Electricity,37240,Tesla,Model S AWD - 90D,Large Cars,2016,EV,193 (front) 193 (rear) (90 kW-hr battery pack),Thu Jan 28 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+93,92.9112,36,,All-Wheel Drive,Electricity,Electricity,37241,Tesla,Model S AWD - P85D,Large Cars,2016,EV,193 (front) 375 (rear) (85 kW-hr battery pack),Thu Jan 28 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+95,94.9536,35,,All-Wheel Drive,Electricity,Electricity,37242,Tesla,Model S AWD - P90D,Large Cars,2016,EV,193 (front) 375 (rear) (90 kW-hr battery pack),Thu Jan 28 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+112,111.6914,30,,Rear-Wheel Drive,Electricity,Electricity,37293,Mitsubishi,i-MiEV,Subcompact Cars,2017,EV,49 kW DCPM,Wed Mar 02 00:00:00 EST 2016,Wed Jul 05 00:00:00 EDT 2017
+98,98.409,34,,Rear-Wheel Drive,Electricity,Electricity,37421,Tesla,Model S (75 kW-hr battery pack),Large Cars,2016,EV,285 kW AC Induction (75 kW-hr battery pack),Wed May 04 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+103,103.3343,33,,All-Wheel Drive,Electricity,Electricity,37422,Tesla,Model S AWD - 75D,Large Cars,2016,EV,193 (front) 193 (rear) (75 kW-hr battery pack),Wed May 04 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+93,93.0305,36,,All-Wheel Drive,Electricity,Electricity,37423,Tesla,Model X AWD - 75D,Standard Sport Utility Vehicle 4WD,2016,EV,193 (front) 193 (rear) (75 kW-hr battery pack),Wed May 04 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+112,112.4374,29.9767,,Front-Wheel Drive,Electricity,Electricity,37798,Fiat,500e,Minicompact Cars,2017,EV,82 kW AC Induction,Wed Jul 20 00:00:00 EDT 2016,Wed Jul 05 00:00:00 EDT 2017
+72,72.2873,47,,Front-Wheel Drive,Electricity,Electricity,37800,BYD,e6,Small Sport Utility Vehicle 2WD,2016,EV,75 kW AC PM/B,Wed Jul 20 00:00:00 EDT 2016,Mon Feb 12 00:00:00 EST 2018
+124,124.3601,27,,Rear-Wheel Drive,Electricity,Electricity,38000,BMW,i3 BEV (60  Amp-hour battery),Subcompact Cars,2017,EV,125 kW AC Induction,Wed Aug 10 00:00:00 EDT 2016,Thu Sep 21 00:00:00 EDT 2017
+118,117.7049,29,,Rear-Wheel Drive,Electricity,Electricity,38001,BMW,i3 BEV (94 Amp-hour battery),Subcompact Cars,2017,EV,125 kW AC Induction,Wed Aug 10 00:00:00 EDT 2016,Thu Sep 21 00:00:00 EDT 2017
+84,83.7887,40.2262,,Front-Wheel Drive,Electricity,Electricity,38002,Mercedes-Benz,B250e,Midsize Cars,2017,EV,132 kW AC Induction,Wed Aug 10 00:00:00 EDT 2016,Wed Jul 05 00:00:00 EDT 2017
+105,105.3754,31.9856,,Front-Wheel Drive,Electricity,Electricity,38168,Kia,Soul Electric,Small Station Wagons,2017,EV,81 kW AC PMSM,Tue Sep 13 00:00:00 EDT 2016,Wed Jul 05 00:00:00 EDT 2017
+99,99.0945,34,,Rear-Wheel Drive,Electricity,Electricity,38170,Tesla,Model S (60 kW-hr battery pack),Large Cars,2016,EV,285 kW AC Induction (60 kW-hr battery pack),Tue Sep 13 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+104,103.7678,32,,All-Wheel Drive,Electricity,Electricity,38171,Tesla,Model S AWD - 60D,Large Cars,2016,EV,193 (front) 193 (rear) (60 kW-hr battery pack),Tue Sep 13 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+98,97.5232,35,,All-Wheel Drive,Electricity,Electricity,38172,Tesla,Model S AWD - P100D,Large Cars,2016,EV,193 (front) 375 (rear) (100 kW-hr battery pack),Tue Sep 13 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+93,92.5663,36,,All-Wheel Drive,Electricity,Electricity,38173,Tesla,Model X AWD - 60D,Standard Sport Utility Vehicle 4WD,2016,EV,193 (front) 193 (rear) (60 kW-hr battery pack),Tue Sep 13 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+119,119.0958,28.3007,,Front-Wheel Drive,Electricity,Electricity,38187,Chevrolet,Bolt EV,Small Station Wagons,2017,EV,150 kW ACPM,Fri Sep 16 00:00:00 EDT 2016,Tue Mar 26 00:00:00 EDT 2019
+112,112.3924,29.9887,,Front-Wheel Drive,Electricity,Electricity,38428,Nissan,Leaf,Midsize Cars,2017,EV,80 kW DCPM,Tue Nov 15 00:00:00 EST 2016,Wed Jul 05 00:00:00 EDT 2017
+136,136,25,,Front-Wheel Drive,Electricity,Electricity,38431,Hyundai,Ioniq Electric,Midsize Cars,2017,EV,88 kW AC PMSM,Wed Nov 16 00:00:00 EST 2016,Tue Nov 28 00:00:00 EST 2017
+86,85.7115,39,,All-Wheel Drive,Electricity,Electricity,38500,Tesla,Model X AWD - P100D,Standard Sport Utility Vehicle 4WD,2016,EV,193 (front) 375 (rear) (100 kW-hr battery pack),Mon Dec 12 00:00:00 EST 2016,Mon Dec 12 00:00:00 EST 2016
+107,107.0326,31,,Front-Wheel Drive,Electricity,Electricity,38505,Ford,Focus Electric,Compact Cars,2017,EV,107 kW AC PMSM,Fri Dec 16 00:00:00 EST 2016,Wed Jul 05 00:00:00 EDT 2017
+104,103.7678,32,,All-Wheel Drive,Electricity,Electricity,38523,Tesla,Model S AWD - 60D,Large Cars,2017,EV,193 (front) 193 (rear) (60 kW-hr battery pack),Wed Jan 11 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+103,103.3343,33,,All-Wheel Drive,Electricity,Electricity,38524,Tesla,Model S AWD - 75D,Large Cars,2017,EV,193 (front) 193 (rear) (75 kW-hr battery pack),Wed Jan 11 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+98,97.5232,35,,All-Wheel Drive,Electricity,Electricity,38525,Tesla,Model S AWD - P100D,Large Cars,2017,EV,193 (front) 375 (rear) (100 kW-hr battery pack),Wed Jan 11 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+93,92.5663,36,,All-Wheel Drive,Electricity,Electricity,38526,Tesla,Model X AWD - 60D,Standard Sport Utility Vehicle 4WD,2017,EV,193 (front) 193 (rear) (60 kW-hr battery pack),Wed Jan 11 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+93,93.0305,36,,All-Wheel Drive,Electricity,Electricity,38527,Tesla,Model X AWD - 75D,Standard Sport Utility Vehicle 4WD,2017,EV,193 (front) 193 (rear) (75 kW-hr battery pack),Wed Jan 11 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+92,92.084,37,,All-Wheel Drive,Electricity,Electricity,38528,Tesla,Model X AWD - 90D,Standard Sport Utility Vehicle 4WD,2017,EV,193 (front) 193 (rear) (90 kW-hr battery pack),Wed Jan 11 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+89,89.1811,38,,All-Wheel Drive,Electricity,Electricity,38529,Tesla,Model X AWD - P90D,Standard Sport Utility Vehicle 4WD,2017,EV,193 (front) 375 (rear) (90 kW-hr battery pack),Wed Jan 11 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+86,85.7115,39,,All-Wheel Drive,Electricity,Electricity,38530,Tesla,Model X AWD - P100D,Standard Sport Utility Vehicle 4WD,2017,EV,193 (front) 375 (rear) (100 kW-hr battery pack),Wed Jan 11 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+95,95.3238,35,,All-Wheel Drive,Electricity,Electricity,38537,Tesla,Model S AWD - P90D,Large Cars,2017,EV,193 (front) 375 (rear) (90 kW-hr battery pack),Wed Jan 18 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+119,118.6017,28.4186,,Front-Wheel Drive,Electricity,Electricity,38549,Volkswagen,e-Golf,Compact Cars,2017,EV,100 kW AC PMSM,Thu Feb 02 00:00:00 EST 2017,Wed Jul 05 00:00:00 EDT 2017
+99,99.0945,34,,Rear-Wheel Drive,Electricity,Electricity,38557,Tesla,Model S (60 kW-hr battery pack),Large Cars,2017,EV,285 kW AC Induction (60 kW-hr battery pack),Fri Feb 24 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+98,98.409,34,,Rear-Wheel Drive,Electricity,Electricity,38558,Tesla,Model S (75 kW-hr battery pack),Large Cars,2017,EV,285 kW AC Induction (75 kW-hr battery pack),Fri Feb 24 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+104,103.8187,32,,All-Wheel Drive,Electricity,Electricity,38569,Tesla,Model S AWD - 90D,Large Cars,2017,EV,193 (front) 193 (rear) (90 kW-hr battery pack),Thu Mar 02 00:00:00 EST 2017,Fri Aug 24 00:00:00 EDT 2018
+72,72.2873,47,,Front-Wheel Drive,Electricity,Electricity,38591,BYD,e6,Small Sport Utility Vehicle 2WD,2017,EV,75 kW AC PM/B,Thu Mar 16 00:00:00 EDT 2017,Mon Feb 12 00:00:00 EST 2018
+102,101.5334,33,,All-Wheel Drive,Electricity,Electricity,38640,Tesla,Model S AWD - 100D,Large Cars,2017,EV,193 (front) 193 (rear) (100 kW-hr battery pack),Tue Apr 11 00:00:00 EDT 2017,Fri Aug 24 00:00:00 EDT 2018
+114,114.1174,30,,Front-Wheel Drive,Electricity,Electricity,39191,Honda,Clarity EV,Midsize Cars,2017,EV,120 kW AC PMSM,Thu Aug 03 00:00:00 EDT 2017,Tue Dec 05 00:00:00 EST 2017
+108,108,31,,Rear-Wheel Drive,Electricity,Electricity,39192,smart,fortwo electric drive coupe,Two Seaters,2017,EV,60 KW AC Synchronous,Thu Aug 03 00:00:00 EDT 2017,Mon Sep 11 00:00:00 EDT 2017
+108,107.9386,31.2261,,Front-Wheel Drive,Electricity,Electricity,39322,Kia,Soul Electric,Small Station Wagons,2018,EV,81 kW AC PMSM,Wed Aug 16 00:00:00 EDT 2017,Wed Jan 24 00:00:00 EST 2018
+102,102,33,,Rear-Wheel Drive,Electricity,Electricity,39603,smart,fortwo electric drive convertible,Two Seaters,2017,EV,60 KW AC Synchronous,Wed Oct 11 00:00:00 EDT 2017,Wed Oct 11 00:00:00 EDT 2017
+107,107.0326,31.4904,,Front-Wheel Drive,Electricity,Electricity,39640,Ford,Focus Electric,Compact Cars,2018,EV,107 kW AC PMSM,Mon Oct 23 00:00:00 EDT 2017,Thu Nov 16 00:00:00 EST 2017
+136,136,25,,Front-Wheel Drive,Electricity,Electricity,39641,Hyundai,Ioniq Electric,Midsize Cars,2018,EV,88 kW AC PMSM,Mon Oct 23 00:00:00 EDT 2017,Wed Jan 24 00:00:00 EST 2018
+126,125.643,26.826,,Rear-Wheel Drive,Electricity,Electricity,39769,Tesla,Model 3 Long Range,Midsize Cars,2017,EV,192 kW AC 3-Phase,Tue Nov 28 00:00:00 EST 2017,Thu Jan 11 00:00:00 EST 2018
+108,108,31,,Rear-Wheel Drive,Electricity,Electricity,39784,smart,fortwo electric drive coupe,Two Seaters,2018,EV,60 KW AC Synchronous,Tue Dec 05 00:00:00 EST 2017,Mon Feb 12 00:00:00 EST 2018
+102,102,33,,Rear-Wheel Drive,Electricity,Electricity,39785,smart,fortwo electric drive convertible,Two Seaters,2018,EV,60 KW AC Synchronous,Tue Dec 05 00:00:00 EST 2017,Mon Feb 12 00:00:00 EST 2018
+119,119.0958,28.3007,,Front-Wheel Drive,Electricity,Electricity,39786,Chevrolet,Bolt EV,Small Station Wagons,2018,EV,150 kW ACPM,Tue Dec 05 00:00:00 EST 2017,Tue Mar 26 00:00:00 EDT 2019
+87,87.1716,38.6651,,All-Wheel Drive,Electricity,Electricity,39831,Tesla,Model X AWD - 100D,Standard Sport Utility Vehicle 4WD,2017,EV,193 (front) 193 (rear) (100 kW-hr battery pack),Wed Jan 03 00:00:00 EST 2018,Fri Aug 24 00:00:00 EDT 2018
+130,130.2464,25.8779,,Rear-Wheel Drive,Electricity,Electricity,39836,Tesla,Model 3 Long Range,Midsize Cars,2018,EV,202 kW AC 3-Phase,Thu Jan 11 00:00:00 EST 2018,Mon Nov 19 00:00:00 EST 2018
+98,98.409,34.2499,,Rear-Wheel Drive,Electricity,Electricity,39837,Tesla,Model S 75kWh,Large Cars,2018,EV,270 kW AC Induction (75 kW-hr battery pack),Thu Jan 11 00:00:00 EST 2018,Fri Aug 24 00:00:00 EDT 2018
+103,103.3343,32.6174,,All-Wheel Drive,Electricity,Electricity,39838,Tesla,Model S 75D,Large Cars,2018,EV,193 (front) 193 (rear) (75 kW-hr battery pack),Thu Jan 11 00:00:00 EST 2018,Fri Aug 24 00:00:00 EDT 2018
+102,101.5334,33.196,,All-Wheel Drive,Electricity,Electricity,39839,Tesla,Model S 100D,Large Cars,2018,EV,193 (front) 193 (rear) (100 kW-hr battery pack),Thu Jan 11 00:00:00 EST 2018,Fri Aug 24 00:00:00 EDT 2018
+98,97.5232,34.561,,All-Wheel Drive,Electricity,Electricity,39840,Tesla,Model S P100D,Large Cars,2018,EV,193 (front) 375 (rear) (100 kW-hr battery pack),Thu Jan 11 00:00:00 EST 2018,Fri Aug 24 00:00:00 EDT 2018
+93,93.0305,36.23,,All-Wheel Drive,Electricity,Electricity,39841,Tesla,Model X 75D,Standard Sport Utility Vehicle 4WD,2018,EV,193 (front) 193 (rear) (75 kW-hr battery pack),Thu Jan 11 00:00:00 EST 2018,Fri Aug 24 00:00:00 EDT 2018
+87,87.1716,38.6651,,All-Wheel Drive,Electricity,Electricity,39842,Tesla,Model X 100D,Standard Sport Utility Vehicle 4WD,2018,EV,193 (front) 193 (rear) (100 kW-hr battery pack),Thu Jan 11 00:00:00 EST 2018,Fri Aug 24 00:00:00 EDT 2018
+85,85.2401,39.5413,,All-Wheel Drive,Electricity,Electricity,39843,Tesla,Model X P100D,Standard Sport Utility Vehicle 4WD,2018,EV,193 (front) 375 (rear) (100 kW-hr battery pack),Thu Jan 11 00:00:00 EST 2018,Fri Aug 24 00:00:00 EDT 2018
+118,117.7049,28.6352,,Rear-Wheel Drive,Electricity,Electricity,39854,BMW,i3 (94Ah),Subcompact Cars,2018,EV,125 kW AC Induction,Thu Jan 18 00:00:00 EST 2018,Mon Feb 26 00:00:00 EST 2018
+112,112.4576,29.9713,,Rear-Wheel Drive,Electricity,Electricity,39855,BMW,i3s (94Ah),Subcompact Cars,2018,EV,125 kW AC Induction,Thu Jan 18 00:00:00 EST 2018,Mon Feb 26 00:00:00 EST 2018
+112,112.3457,30.0011,,Front-Wheel Drive,Electricity,Electricity,39860,Nissan,Leaf,Midsize Cars,2018,EV,110 kW DCPM,Wed Jan 24 00:00:00 EST 2018,Wed Jan 24 00:00:00 EST 2018
+119,118.6017,28.4186,,Front-Wheel Drive,Electricity,Electricity,39871,Volkswagen,e-Golf,Compact Cars,2018,EV,100 kW AC PMSM,Tue Feb 06 00:00:00 EST 2018,Tue Feb 06 00:00:00 EST 2018
+72,72.2873,46.6265,,Front-Wheel Drive,Electricity,Electricity,39880,BYD,e6,Small Sport Utility Vehicle 2WD,2018,EV,75 kW AC PM/B,Mon Feb 12 00:00:00 EST 2018,Mon Feb 12 00:00:00 EST 2018
+112,112.4374,29.9767,,Front-Wheel Drive,Electricity,Electricity,39959,Fiat,500e,Minicompact Cars,2018,EV,82 kW AC Induction,Mon Mar 26 00:00:00 EDT 2018,Wed Mar 13 00:00:00 EDT 2019
+114,114.1174,29.5354,,Front-Wheel Drive,Electricity,Electricity,40044,Honda,Clarity EV,Midsize Cars,2018,EV,120 kW AC PMSM,Wed Apr 04 00:00:00 EDT 2018,Wed Oct 03 00:00:00 EDT 2018
+136,136,25,,Front-Wheel Drive,Electricity,Electricity,40384,Hyundai,Ioniq Electric,Midsize Cars,2019,EV,88 kW AC PMSM,Thu Jul 12 00:00:00 EDT 2018,Thu Jul 12 00:00:00 EDT 2018
+116,116.4402,28.9462,,All-Wheel Drive,Electricity,Electricity,40385,Tesla,Model 3 Long Range  AWD,Midsize Cars,2018,EV,147 and 188 kW AC 3-Phase,Thu Jul 12 00:00:00 EDT 2018,Thu Jul 12 00:00:00 EDT 2018
+116,116.4402,28.9462,,All-Wheel Drive,Electricity,Electricity,40386,Tesla,Model 3 Long Range  AWD Performance,Midsize Cars,2018,EV,147 and 202 kW AC 3-Phase,Thu Jul 12 00:00:00 EDT 2018,Mon Nov 19 00:00:00 EST 2018
+119,119.0958,28.3007,,Front-Wheel Drive,Electricity,Electricity,40520,Chevrolet,Bolt EV,Small Station Wagons,2019,EV,150 kW ACPM,Fri Aug 03 00:00:00 EDT 2018,Tue Mar 26 00:00:00 EDT 2019
+120,120,28,,Front-Wheel Drive,Electricity,Electricity,40585,Hyundai,Kona Electric,Small Sport Utility Vehicle 2WD,2019,EV,150 kW AC PMSM,Thu Aug 16 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+108,107.9386,31.2261,,Front-Wheel Drive,Electricity,Electricity,40768,Kia,Soul Electric,Small Station Wagons,2019,EV,81 kW AC PMSM,Tue Sep 11 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+119,118.6017,28.4186,,Front-Wheel Drive,Electricity,Electricity,40769,Volkswagen,e-Golf,Compact Cars,2019,EV,100 kW AC PMSM,Tue Sep 11 00:00:00 EDT 2018,Wed Apr 10 00:00:00 EDT 2019
+112,111.677,30.1816,,Front-Wheel Drive,Electricity,Electricity,40812,Nissan,Leaf (40 kW-hr battery pack),Midsize Cars,2019,EV,110 kW DCPM,Fri Sep 21 00:00:00 EDT 2018,Wed Mar 13 00:00:00 EDT 2019
+76,76.1264,44.275,,4-Wheel Drive,Electricity,Electricity,40986,Jaguar,I-Pace,Small Sport Utility Vehicle 4WD,2019,EV,147 and 147 kW AC 3-Phase,Fri Nov 02 00:00:00 EDT 2018,Fri Nov 02 00:00:00 EDT 2018
+113,113.1242,29.7947,,Rear-Wheel Drive,Electricity,Electricity,41054,BMW,i3,Subcompact Cars,2019,EV,125 kW AC Induction,Mon Nov 19 00:00:00 EST 2018,Mon Nov 19 00:00:00 EST 2018
+113,113.1242,29.7947,,Rear-Wheel Drive,Electricity,Electricity,41055,BMW,i3s,Subcompact Cars,2019,EV,135 kW AC Induction,Mon Nov 19 00:00:00 EST 2018,Mon Dec 03 00:00:00 EST 2018
+123,122.6274,27.4857,,Rear-Wheel Drive,Electricity,Electricity,41056,Tesla,Model 3 Mid Range,Midsize Cars,2018,EV,202 kW AC 3-Phase,Mon Nov 19 00:00:00 EST 2018,Mon Nov 19 00:00:00 EST 2018
+112,112.3234,30.0071,,Front-Wheel Drive,Electricity,Electricity,41060,Kia,Niro Electric,Small Station Wagons,2019,EV,150 kW IPMSM,Mon Dec 03 00:00:00 EST 2018,Wed Dec 05 00:00:00 EST 2018
+112,112.4374,29.9767,,Front-Wheel Drive,Electricity,Electricity,41143,Fiat,500e,Minicompact Cars,2019,EV,82 kW AC Induction,Tue Dec 18 00:00:00 EST 2018,Wed Mar 13 00:00:00 EDT 2019
+114,114.1174,29.5354,,Front-Wheel Drive,Electricity,Electricity,41185,Honda,Clarity EV,Midsize Cars,2019,EV,120 kW AC PMSM,Tue Jan 29 00:00:00 EST 2019,Tue Jan 29 00:00:00 EST 2019
+108,108,31,,Rear-Wheel Drive,Electricity,Electricity,41186,smart,EQ fortwo (coupe),Two Seaters,2019,EV,60 KW AC Synchronous,Tue Jan 29 00:00:00 EST 2019,Tue Jan 29 00:00:00 EST 2019
+102,102,33,,Rear-Wheel Drive,Electricity,Electricity,41187,smart,EQ fortwo (convertible),Two Seaters,2019,EV,60 KW AC Synchronous,Tue Jan 29 00:00:00 EST 2019,Tue Jan 29 00:00:00 EST 2019
+123,122.6274,27.4857,,Rear-Wheel Drive,Electricity,Electricity,41188,Tesla,Model 3 Mid Range,Midsize Cars,2019,EV,211 kW AC 3-Phase,Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+130,130.2464,25.8779,,Rear-Wheel Drive,Electricity,Electricity,41189,Tesla,Model 3 Long Range,Midsize Cars,2019,EV,211 kW AC 3-Phase,Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+116,116.4402,28.9462,,All-Wheel Drive,Electricity,Electricity,41190,Tesla,Model 3 Long Range AWD,Midsize Cars,2019,EV,147 and 188 kW AC 3-Phase,Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+116,116.4402,28.9462,,All-Wheel Drive,Electricity,Electricity,41191,Tesla,Model 3 Long Range AWD Performance,Midsize Cars,2019,EV,147 and 202 kW AC 3-Phase,Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+103,103.3343,32.6174,,All-Wheel Drive,Electricity,Electricity,41192,Tesla,Model S 75D,Large Cars,2019,EV,193 (front) 193 (rear) (75 kW-hr battery pack),Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+102,101.5334,33.196,,All-Wheel Drive,Electricity,Electricity,41193,Tesla,Model S 100D,Large Cars,2019,EV,193 (front) 193 (rear) (100 kW-hr battery pack),Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+98,97.5232,34.561,,All-Wheel Drive,Electricity,Electricity,41194,Tesla,Model S P100D,Large Cars,2019,EV,193 (front) 375 (rear) (100 kW-hr battery pack),Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+93,93.0305,36.23,,All-Wheel Drive,Electricity,Electricity,41195,Tesla,Model X 75D,Standard Sport Utility Vehicle 4WD,2019,EV,193 (front) 193 (rear) (75 kW-hr battery pack),Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+87,87.1716,38.6651,,All-Wheel Drive,Electricity,Electricity,41196,Tesla,Model X 100D,Standard Sport Utility Vehicle 4WD,2019,EV,193 (front) 193 (rear) (100 kW-hr battery pack),Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+85,85.2401,39.5413,,All-Wheel Drive,Electricity,Electricity,41197,Tesla,Model X P100D,Standard Sport Utility Vehicle 4WD,2019,EV,193 (front) 375 (rear) (100 kW-hr battery pack),Tue Jan 29 00:00:00 EST 2019,Tue Jun 18 00:00:00 EDT 2019
+114,114,30,,Front-Wheel Drive,Electricity,Electricity,41235,Kia,Soul Electric,Small Station Wagons,2020,EV,201 kW AC PMSM,Tue Feb 12 00:00:00 EST 2019,Tue Feb 12 00:00:00 EST 2019
+72,72.2873,46.6265,,Front-Wheel Drive,Electricity,Electricity,41275,BYD,e6,Small Sport Utility Vehicle 2WD,2019,EV,75 kW AC PM/B,Wed Mar 13 00:00:00 EDT 2019,Wed Mar 13 00:00:00 EDT 2019
+108,108,31,,Front-Wheel Drive,Electricity,Electricity,41276,Nissan,Leaf (62 kW-hr battery pack),Midsize Cars,2019,EV,160 kW DCPM,Wed Mar 13 00:00:00 EDT 2019,Wed Mar 13 00:00:00 EDT 2019
+104,104.4048,32.283,,Front-Wheel Drive,Electricity,Electricity,41277,Nissan,Leaf SV/SL (62 kW-hr battery pack),Midsize Cars,2019,EV,160 kW DCPM,Wed Mar 13 00:00:00 EDT 2019,Wed Mar 13 00:00:00 EDT 2019
+74,73.9677,45.5672,,All-Wheel Drive,Electricity,Electricity,41393,Audi,e-tron,Standard Sport Utility Vehicle 4WD,2019,EV,141 and 172 kW Asynchron 3-Phase,Tue Apr 16 00:00:00 EDT 2019,Tue Apr 16 00:00:00 EDT 2019
+76,76.0705,44.3076,,4-Wheel Drive,Electricity,Electricity,41413,Jaguar,I-Pace,Small Sport Utility Vehicle 4WD,2020,EV,147 and 147 kW AC 3-Phase,Thu May 02 00:00:00 EDT 2019,Thu May 02 00:00:00 EDT 2019
+131,131.1902,25.6917,,Rear-Wheel Drive,Electricity,Electricity,41415,Tesla,Model 3 Standard Range,Midsize Cars,2019,EV,211 kW AC 3-Phase,Thu May 02 00:00:00 EDT 2019,Tue Jun 18 00:00:00 EDT 2019
+133,132.7591,25.3881,,Rear-Wheel Drive,Electricity,Electricity,41416,Tesla,Model 3 Standard Range Plus,Midsize Cars,2019,EV,211 kW AC 3-Phase,Thu May 02 00:00:00 EDT 2019,Tue Jun 18 00:00:00 EDT 2019
+111,111.3381,30.2726,,All-Wheel Drive,Electricity,Electricity,41417,Tesla,Model S Long Range,Large Cars,2019,EV,193 and 205 kW AC 3-Phase,Thu May 02 00:00:00 EDT 2019,Tue Jun 18 00:00:00 EDT 2019
+104,103.9244,32.4322,,All-Wheel Drive,Electricity,Electricity,41418,Tesla,Model S Performance (19in Wheels),Large Cars,2019,EV,193 and 205 kW AC 3-Phase,Thu May 02 00:00:00 EDT 2019,Tue Jun 18 00:00:00 EDT 2019
+97,97.0458,34.731,,All-Wheel Drive,Electricity,Electricity,41419,Tesla,Model S Performance (21in Wheels),Large Cars,2019,EV,193 and 205 kW AC 3-Phase,Thu May 02 00:00:00 EDT 2019,Tue Jun 18 00:00:00 EDT 2019
+109,109.3663,30.8184,,All-Wheel Drive,Electricity,Electricity,41513,Tesla,Model S Standard Range,Large Cars,2019,EV,193 and 205 kW AC 3-Phase,Tue Jun 11 00:00:00 EDT 2019,Tue Jun 18 00:00:00 EDT 2019
+96,96.2122,35.0319,,All-Wheel Drive,Electricity,Electricity,41514,Tesla,Model X Long Range,Standard Sport Utility Vehicle 4WD,2019,EV,"193 (front), 205/375 (rear) kW ACPM",Tue Jun 11 00:00:00 EDT 2019,Tue Jun 18 00:00:00 EDT 2019
+79,78.731,42.8103,,All-Wheel Drive,Electricity,Electricity,41515,Tesla,Model X Performance (22in Wheels),Standard Sport Utility Vehicle 4WD,2019,EV,"193 (front), 205/375 (rear) kW ACPM",Tue Jun 11 00:00:00 EDT 2019,Tue Jun 18 00:00:00 EDT 2019
+53,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,15606,Honda,Insight,Two Seaters,2000,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+47,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,16445,Honda,Insight,Two Seaters,2001,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+47,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,16446,Honda,Insight,Two Seaters,2001,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+53,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,16447,Honda,Insight,Two Seaters,2001,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,16705,Toyota,Prius,Compact Cars,2001,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+47,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,17354,Honda,Insight,Two Seaters,2002,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+53,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,17355,Honda,Insight,Two Seaters,2002,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,17634,Toyota,Prius,Compact Cars,2002,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+47,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,18312,Honda,Insight,Two Seaters,2003,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+53,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,18313,Honda,Insight,Two Seaters,2003,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,18525,Honda,Civic Hybrid,Compact Cars,2003,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,18526,Honda,Civic Hybrid,Compact Cars,2003,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,18608,Toyota,Prius,Compact Cars,2003,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+40,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,19301,Honda,Civic Hybrid,Compact Cars,2003,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+40,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,19302,Honda,Civic Hybrid,Compact Cars,2003,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+47,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,19356,Honda,Insight,Two Seaters,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+52,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,19357,Honda,Insight,Two Seaters,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+40,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,19588,Honda,Civic Hybrid,Compact Cars,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,19589,Honda,Civic Hybrid,Compact Cars,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+40,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,19590,Honda,Civic Hybrid,Compact Cars,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,19591,Honda,Civic Hybrid,Compact Cars,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+46,0,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,19813,Toyota,Prius,Midsize Cars,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+17,0,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,19956,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+17,0,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,19992,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+16,0,0,5.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,20034,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+16,0,0,5.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,20065,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2004,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+47,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,20478,Honda,Insight,Two Seaters,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+52,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,20479,Honda,Insight,Two Seaters,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+40,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,20712,Honda,Civic Hybrid,Compact Cars,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,20713,Honda,Civic Hybrid,Compact Cars,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+40,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,20714,Honda,Civic Hybrid,Compact Cars,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,20715,Honda,Civic Hybrid,Compact Cars,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+46,0,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,20934,Toyota,Prius,Midsize Cars,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+17,0,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,21082,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+17,0,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,21117,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+16,0,0,5.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,21150,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+16,0,0,5.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,21174,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+29,0,0,2.3,Front-Wheel Drive,Regular,Regular Gasoline,21286,Ford,Escape Hybrid 2WD,Sport Utility Vehicle - 2WD,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,2.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,21390,Ford,Escape Hybrid 4WD,Sport Utility Vehicle - 4WD,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,3,Front-Wheel Drive,Regular,Regular Gasoline,21539,Honda,Accord Hybrid,Midsize Cars,2005,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+47,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,21631,Honda,Insight,Two Seaters,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+52,0,0,1,Front-Wheel Drive,Regular,Regular Gasoline,21632,Honda,Insight,Two Seaters,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+46,0,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,22016,Toyota,Prius,Midsize Cars,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+17,0,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,22161,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+17,0,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,22199,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+16,0,0,5.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22246,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+16,0,0,5.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22273,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+29,0,0,2.3,Front-Wheel Drive,Regular,Regular Gasoline,22389,Ford,Escape Hybrid FWD,Sport Utility Vehicle - 2WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,3.3,Front-Wheel Drive,Regular,Regular Gasoline,22431,Lexus,RX 400h 2WD,Sport Utility Vehicle - 2WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,3.3,Front-Wheel Drive,Regular,Regular Gasoline,22459,Toyota,Highlander Hybrid 2WD,Sport Utility Vehicle - 2WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,2.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22495,Ford,Escape Hybrid 4WD,Sport Utility Vehicle - 4WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+26,0,0,3.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22549,Lexus,RX 400h 4WD,Sport Utility Vehicle - 4WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,2.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22553,Mazda,Tribute Hybrid 4WD,Sport Utility Vehicle - 4WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,2.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22560,Mercury,Mariner Hybrid 4WD,Sport Utility Vehicle - 4WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+26,0,0,3.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22602,Toyota,Highlander Hybrid 4WD,Sport Utility Vehicle - 4WD,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+42,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,22643,Honda,Civic Hybrid,Compact Cars,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+25,0,0,3,Front-Wheel Drive,Regular,Regular Gasoline,22676,Honda,Accord Hybrid,Midsize Cars,2006,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+23,0,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,22762,Lexus,GS 450h,Compact Cars,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+34,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,22825,Toyota,Camry Hybrid,Midsize Cars,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+17,0,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,22883,Chevrolet,Silverado Classic 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+17,0,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,22897,GMC,Sierra Classic 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+16,0,0,5.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22908,Chevrolet,Silverado Classic 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+16,0,0,5.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22921,GMC,Sierra Classic 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+30,0,0,2.3,Front-Wheel Drive,Regular,Regular Gasoline,22958,Ford,Escape Hybrid FWD,Sport Utility Vehicle - 2WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,2.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,22997,Ford,Escape Hybrid 4WD,Sport Utility Vehicle - 4WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,2.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,23019,Mercury,Mariner Hybrid 4WD,Sport Utility Vehicle - 4WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+26,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,23397,Saturn,Vue Hybrid,Sport Utility Vehicle - 2WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+42,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,23533,Honda,Civic Hybrid,Compact Cars,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,3,Front-Wheel Drive,Regular,Regular Gasoline,23571,Honda,Accord Hybrid,Midsize Cars,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+46,0,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,23599,Toyota,Prius,Midsize Cars,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+26,0,0,3.3,Front-Wheel Drive,Premium,Premium Gasoline,23751,Lexus,RX 400h 2WD,Sport Utility Vehicle - 2WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+26,0,0,3.3,Front-Wheel Drive,Regular,Regular Gasoline,23767,Toyota,Highlander Hybrid 2WD,Sport Utility Vehicle - 2WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+26,0,0,3.3,4-Wheel or All-Wheel Drive,Premium,Premium Gasoline,23820,Lexus,RX 400h 4WD,Sport Utility Vehicle - 4WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+26,0,0,3.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,23835,Toyota,Highlander Hybrid 4WD,Sport Utility Vehicle - 4WD,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+34,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,23949,Nissan,Altima Hybrid,Midsize Cars,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,23984,Saturn,Aura Hybrid,Midsize Cars,2007,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,5,4-Wheel or All-Wheel Drive,Premium,Premium Gasoline,24050,Lexus,LS 600h L,Midsize Cars,2008,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+32,0,0,2.3,Front-Wheel Drive,Regular,Regular Gasoline,24086,Ford,Escape Hybrid FWD,Sport Utility Vehicle - 2WD,2008,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+32,0,0,2.3,Front-Wheel Drive,Regular,Regular Gasoline,24094,Mazda,Tribute Hybrid 2WD,Sport Utility Vehicle - 2WD,2008,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+32,0,0,2.3,Front-Wheel Drive,Regular,Regular Gasoline,24097,Mercury,Mariner Hybrid FWD,Sport Utility Vehicle - 2WD,2008,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,2.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,24113,Ford,Escape Hybrid 4WD,Sport Utility Vehicle - 4WD,2008,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,2.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,24127,Mazda,Tribute Hybrid 4WD,Sport Utility Vehicle - 4WD,2008,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,2.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,24130,Mercury,Mariner Hybrid 4WD,Sport Utility Vehicle - 4WD,2008,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,24370,Chevrolet,Malibu Hybrid,Midsize Cars,2008,Hybrid,36V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+27,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,24400,Saturn,Aura Hybrid,Midsize Cars,2008,Hybrid,36V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+34,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,24404,Toyota,Camry Hybrid,Midsize Cars,2008,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+42,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,24829,Honda,Civic Hybrid,Compact Cars,2008,Hybrid,158V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+23,0,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,24834,Lexus,GS 450h,Compact Cars,2008,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+34,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,24872,Nissan,Altima Hybrid,Midsize Cars,2008,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+46,0,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,24882,Toyota,Prius,Midsize Cars,2008,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+25,0,0,3.3,Front-Wheel Drive,Premium,Premium Gasoline,25000,Lexus,RX 400h 2WD,Sport Utility Vehicle - 2WD,2008,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+25,0,0,3.3,4-Wheel or All-Wheel Drive,Premium,Premium Gasoline,25043,Lexus,RX 400h 4WD,Sport Utility Vehicle - 4WD,2008,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+26,0,0,3.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25054,Toyota,Highlander Hybrid 4WD,Sport Utility Vehicle - 4WD,2008,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,25122,Chevrolet,Tahoe Hybrid 2WD,Sport Utility Vehicle - 2WD,2008,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,25127,GMC,Yukon 1500 Hybrid 2WD,Sport Utility Vehicle - 2WD,2008,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,25130,Saturn,Vue Hybrid,Sport Utility Vehicle - 2WD,2008,Hybrid,36V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+20,0,0,6,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25131,Chevrolet,Tahoe Hybrid 4WD,Sport Utility Vehicle - 4WD,2008,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+20,0,0,6,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25132,GMC,Yukon 1500 Hybrid 4WD,Sport Utility Vehicle - 4WD,2008,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+34,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,25278,Toyota,Camry Hybrid,Midsize Cars,2009,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+29,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,25486,Chevrolet,Malibu Hybrid,Midsize Cars,2009,Hybrid,36V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+29,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,25514,Saturn,Aura Hybrid,Midsize Cars,2009,Hybrid,36V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,25578,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,25582,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+20,0,0,6,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25586,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+20,0,0,6,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25590,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+20,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,25599,Cadillac,Escalade Hybrid 2WD,Sport Utility Vehicle - 2WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,25607,Chevrolet,Tahoe Hybrid 2WD,Sport Utility Vehicle - 2WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+32,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,25622,Ford,Escape Hybrid FWD,Sport Utility Vehicle - 2WD,2009,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,25625,GMC,Yukon 1500 Hybrid 2WD,Sport Utility Vehicle - 2WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+32,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,25643,Mazda,Tribute Hybrid 2WD,Sport Utility Vehicle - 2WD,2009,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+32,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,25646,Mercury,Mariner Hybrid FWD,Sport Utility Vehicle - 2WD,2009,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,25654,Saturn,Vue Hybrid,Sport Utility Vehicle - 2WD,2009,Hybrid,36V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+20,0,0,6,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25664,Chevrolet,Tahoe Hybrid 4WD,Sport Utility Vehicle - 4WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,2.5,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25671,Ford,Escape Hybrid 4WD,Sport Utility Vehicle - 4WD,2009,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+20,0,0,6,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25675,GMC,Yukon 1500 Hybrid 4WD,Sport Utility Vehicle - 4WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,2.5,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25698,Mazda,Tribute Hybrid 4WD,Sport Utility Vehicle - 4WD,2009,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,2.5,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,25704,Mercury,Mariner Hybrid 4WD,Sport Utility Vehicle - 4WD,2009,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+42,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,25921,Honda,Civic Hybrid,Compact Cars,2009,Hybrid,158V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+34,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,25986,Nissan,Altima Hybrid,Midsize Cars,2009,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+46,0,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,25987,Toyota,Prius,Midsize Cars,2009,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+23,0,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,26251,Lexus,GS 450h,Compact Cars,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,5,4-Wheel or All-Wheel Drive,Premium,Premium Gasoline,26261,Lexus,LS 600h L,Midsize Cars,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+26,0,0,3.3,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,26289,Toyota,Highlander Hybrid 4WD,Sport Utility Vehicle - 4WD,2009,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,5.7,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,26321,Dodge,Durango HEV,Sport Utility Vehicle - 4WD,2009,Hybrid,300V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,5.7,4-Wheel or All-Wheel Drive,Regular,Regular Gasoline,26322,Chrysler,Aspen HEV,Sport Utility Vehicle - 4WD,2009,Hybrid,300V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+41,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,26365,Honda,Insight,Compact Cars,2010,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+41,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,26366,Honda,Insight,Compact Cars,2010,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+39,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,26405,Ford,Fusion Hybrid FWD,Midsize Cars,2010,Hybrid,275V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+39,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,26415,Mercury,Milan Hybrid FWD,Midsize Cars,2010,Hybrid,275V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+34,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,26424,Toyota,Camry Hybrid,Midsize Cars,2010,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+50,0,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,26425,Toyota,Prius,Midsize Cars,2010,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+30,0,0,3.5,Front-Wheel Drive,Premium,Premium Gasoline,26473,Lexus,RX 450h,Sport Utility Vehicle - 2WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+29,0,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,26496,Lexus,RX 450h AWD,Sport Utility Vehicle - 4WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,3.6,Front-Wheel Drive,Regular,Regular Gasoline,26554,Saturn,Vue Hybrid,Sport Utility Vehicle - 2WD,2009,Hybrid,,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+35,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,28588,Lexus,HS 250h,Compact Cars,2010,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+29,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,28634,Chevrolet,Malibu Hybrid,Midsize Cars,2010,Hybrid,36V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+28,0,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,28779,Saturn,Vue Hybrid,Sport Utility Vehicle - 2WD,2010,Hybrid,36V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,29333,Mercedes-Benz,S400 Hybrid,Large Cars,2010,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+32,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,29442,Ford,Escape Hybrid FWD,Sport Utility Vehicle - 2WD,2010,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+32,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,29447,Mazda,Tribute Hybrid 2WD,Sport Utility Vehicle - 2WD,2010,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+32,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,29450,Mercury,Mariner Hybrid FWD,Sport Utility Vehicle - 2WD,2010,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+29,0,0,2.5,4-Wheel Drive,Regular,Regular Gasoline,29455,Ford,Escape Hybrid 4WD,Sport Utility Vehicle - 4WD,2010,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+29,0,0,2.5,4-Wheel Drive,Regular,Regular Gasoline,29459,Mazda,Tribute Hybrid 4WD,Sport Utility Vehicle - 4WD,2010,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+29,0,0,2.5,4-Wheel Drive,Regular,Regular Gasoline,29464,Mercury,Mariner Hybrid 4WD,Sport Utility Vehicle - 4WD,2010,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+42,0,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,29712,Honda,Civic Hybrid,Compact Cars,2010,Hybrid,158V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+23,0,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,29715,Lexus,GS 450h,Compact Cars,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+26,0,0,3.3,All-Wheel Drive,Regular,Regular Gasoline,29757,Toyota,Highlander Hybrid 4WD,Sport Utility Vehicle - 4WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+22,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,29764,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+22,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,29769,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,4-Wheel Drive,Regular,Regular Gasoline,29774,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,4-Wheel Drive,Regular,Regular Gasoline,29778,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+22,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,29781,Cadillac,Escalade Hybrid 2WD,Sport Utility Vehicle - 2WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+22,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,29788,Chevrolet,Tahoe Hybrid 2WD,Sport Utility Vehicle - 2WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+22,0,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,29791,GMC,Yukon 1500 Hybrid 2WD,Sport Utility Vehicle - 2WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,4-Wheel Drive,Regular,Regular Gasoline,29800,Chevrolet,Tahoe Hybrid 4WD,Sport Utility Vehicle - 4WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,6,4-Wheel Drive,Regular,Regular Gasoline,29802,GMC,Yukon 1500 Hybrid 4WD,Sport Utility Vehicle - 4WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+34,0,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,29862,Nissan,Altima Hybrid,Midsize Cars,2010,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+18,0,0,4.4,All-Wheel Drive,Premium,Premium Gasoline,29881,BMW,ActiveHybrid X6,Sport Utility Vehicle - 4WD,2010,Hybrid,312V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+21,0,0,5,All-Wheel Drive,Premium,Premium Gasoline,29923,Lexus,LS 600h L,Midsize Cars,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+22,0,0,3.5,4-Wheel Drive,Premium,Premium Gasoline,29950,Mercedes-Benz,ML450 Hybrid 4matic,Sport Utility Vehicle - 4WD,2010,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Tue Jan 01 00:00:00 EST 2013
+20,19.6707,0,4.4,Rear-Wheel Drive,Premium,Premium Gasoline,30074,BMW,ActiveHybrid 7i,Midsize Cars,2011,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+33,32.5411,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,30089,Toyota,Camry Hybrid,Midsize Cars,2011,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+20,19.6707,0,4.4,Rear-Wheel Drive,Premium,Premium Gasoline,30095,BMW,ActiveHybrid 7Li,Large Cars,2011,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+18,17.7986,0,4.4,All-Wheel Drive,Premium,Premium Gasoline,30193,BMW,ActiveHybrid X6,Sport Utility Vehicle - 4WD,2011,Hybrid,312V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38.0688,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,30370,Mercury,Milan Hybrid FWD,Midsize Cars,2011,Hybrid,275V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38.0688,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,30371,Lincoln,MKZ Hybrid FWD,Midsize Cars,2011,Hybrid,275V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38.0688,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,30373,Ford,Fusion Hybrid FWD,Midsize Cars,2011,Hybrid,275V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0844,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,30458,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0844,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,30459,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,20.9457,0,6,4-Wheel Drive,Regular,Regular Gasoline,30466,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,20.9457,0,6,4-Wheel Drive,Regular,Regular Gasoline,30467,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0844,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,30511,Cadillac,Escalade Hybrid 2WD,Sport Utility Vehicle - 2WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0844,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,30512,Chevrolet,Tahoe Hybrid 2WD,Sport Utility Vehicle - 2WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0844,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,30513,GMC,Yukon 1500 Hybrid 2WD,Sport Utility Vehicle - 2WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.2834,0,6,4-Wheel Drive,Regular,Regular Gasoline,30555,Cadillac,Escalade Hybrid 4WD,Sport Utility Vehicle - 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,20.9457,0,6,4-Wheel Drive,Regular,Regular Gasoline,30556,Chevrolet,Tahoe Hybrid 4WD,Sport Utility Vehicle - 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,20.9457,0,6,4-Wheel Drive,Regular,Regular Gasoline,30557,GMC,Yukon 1500 Hybrid 4WD,Sport Utility Vehicle - 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+34,33.5194,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,30587,Honda,CR-Z,Two Seaters,2011,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+36,35.8148,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,30588,Honda,CR-Z,Two Seaters,2011,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+41,41.0632,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,30627,Honda,Civic Hybrid,Compact Cars,2011,Hybrid,158V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+23,23.2372,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,30632,Lexus,GS 450h,Compact Cars,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+32,31.8665,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,30737,Ford,Escape Hybrid FWD,Sport Utility Vehicle - 2WD,2011,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+32,31.8665,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,30750,Mazda,Tribute Hybrid 2WD,Sport Utility Vehicle - 2WD,2011,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+32,31.8665,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,30753,Mercury,Mariner Hybrid FWD,Sport Utility Vehicle - 2WD,2011,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,28.5814,0,2.5,4-Wheel Drive,Regular,Regular Gasoline,30777,Ford,Escape Hybrid 4WD,Sport Utility Vehicle - 4WD,2011,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,28.5814,0,2.5,4-Wheel Drive,Regular,Regular Gasoline,30795,Mazda,Tribute Hybrid 4WD,Sport Utility Vehicle - 4WD,2011,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+22,21.8504,0,3.5,4-Wheel Drive,Premium,Premium Gasoline,30800,Mercedes-Benz,ML450 Hybrid 4matic,Sport Utility Vehicle - 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,28.5814,0,2.5,4-Wheel Drive,Regular,Regular Gasoline,30807,Mercury,Mariner Hybrid 4WD,Sport Utility Vehicle - 4WD,2011,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,27.7244,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,30826,Toyota,Highlander Hybrid 4WD,Sport Utility Vehicle - 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+40,40.1105,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,30843,Honda,Insight,Compact Cars,2011,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+40,40.0013,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,30844,Honda,Insight,Compact Cars,2011,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+34,33.8958,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,30845,Lexus,HS 250h,Compact Cars,2011,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+20,20.4141,0,5,All-Wheel Drive,Premium,Premium Gasoline,30860,Lexus,LS 600h L,Midsize Cars,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+33,33.1881,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,30863,Nissan,Altima Hybrid,Midsize Cars,2011,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,29.4292,0,3.5,Front-Wheel Drive,Premium,Premium Gasoline,30893,Lexus,RX 450h,Sport Utility Vehicle - 2WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+28,28.3029,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,30907,Lexus,RX 450h AWD,Sport Utility Vehicle - 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+48,47.7418,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,30919,Toyota,Prius,Midsize Cars,2011,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.2834,0,6,4-Wheel Drive,Regular,Regular Gasoline,30920,GMC,Yukon Denali 1500 Hybrid 4WD,Sport Utility Vehicle - 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.3994,0,3,All-Wheel Drive,Premium,Premium Gasoline,30964,Porsche,Cayenne S Hybrid,Sport Utility Vehicle - 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+42,41.5896,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,31002,Lexus,CT 200h,Compact Cars,2011,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0098,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,31024,Mercedes-Benz,S400 Hybrid,Large Cars,2011,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.4351,0,3,All-Wheel Drive,Premium,Premium Gasoline,31063,Volkswagen,Touareg Hybrid,Sport Utility Vehicle - 4WD,2011,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+36,36,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,31076,Hyundai,Sonata Hybrid,Midsize Cars,2011,Hybrid,270V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+44,43.6569,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,31190,Honda,Civic Hybrid,Compact Cars,2012,Hybrid,144V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,28.6262,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,31218,Infiniti,M35h,Midsize Cars,2012,Hybrid,346V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,28.2138,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,31363,Buick,Regal eAssist,Midsize Cars,2012,Hybrid,115V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+28,28.2138,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,31364,Buick,LaCrosse eAssist,Midsize Cars,2012,Hybrid,115V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+38,38.0688,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,31388,Ford,Fusion Hybrid FWD,Midsize Cars,2012,Hybrid,275V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38.0688,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,31395,Lincoln,MKZ Hybrid FWD,Midsize Cars,2012,Hybrid,275V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+32,31.8665,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,31479,Ford,Escape Hybrid FWD,Sport Utility Vehicle - 2WD,2012,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,28.5814,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,31509,Ford,Escape Hybrid AWD,Sport Utility Vehicle - 4WD,2012,Hybrid,330V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.3991,0,3,All-Wheel Drive,Premium,Premium Gasoline,31542,Porsche,Cayenne S Hybrid,Sport Utility Vehicle - 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.4108,0,3,All-Wheel Drive,Premium,Premium Gasoline,31612,Volkswagen,Touareg Hybrid,Sport Utility Vehicle - 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+42,41.5896,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,31693,Lexus,CT 200h,Compact Cars,2012,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+48,47.7153,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,31767,Toyota,Prius,Midsize Cars,2012,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0341,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,31799,Mercedes-Benz,S400 Hybrid,Large Cars,2012,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+25,25.3292,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,31811,Porsche,Panamera S Hybrid,Large Cars,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+41,40.8097,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,31836,Toyota,Prius v,Midsize Station Wagons,2012,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,31855,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,31857,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,20.9446,0,6,4-Wheel Drive,Regular,Regular Gasoline,31862,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,20.9446,0,6,4-Wheel Drive,Regular,Regular Gasoline,31864,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,31901,Cadillac,Escalade Hybrid 2WD,Sport Utility Vehicle - 2WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,31903,Chevrolet,Tahoe Hybrid 2WD,Sport Utility Vehicle - 2WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,31911,GMC,Yukon 1500 Hybrid 2WD,Sport Utility Vehicle - 2WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,29.4292,0,3.5,Front-Wheel Drive,Premium,Premium Gasoline,31926,Lexus,RX 450h,Sport Utility Vehicle - 2WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+21,21.2834,0,6,4-Wheel Drive,Regular,Regular Gasoline,31948,Cadillac,Escalade Hybrid 4WD,Sport Utility Vehicle - 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,20.9446,0,6,4-Wheel Drive,Regular,Regular Gasoline,31951,Chevrolet,Tahoe Hybrid 4WD,Sport Utility Vehicle - 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,20.9446,0,6,4-Wheel Drive,Regular,Regular Gasoline,31958,GMC,Yukon 1500 Hybrid 4WD,Sport Utility Vehicle - 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.2834,0,6,4-Wheel Drive,Regular,Regular Gasoline,31960,GMC,Yukon Denali 1500 Hybrid 4WD,Sport Utility Vehicle - 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,28.3029,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,31971,Lexus,RX 450h AWD,Sport Utility Vehicle - 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+28,27.5972,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,31995,Toyota,Highlander Hybrid 4WD,Sport Utility Vehicle - 4WD,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+36,36.1449,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,32005,Kia,Optima Hybrid,Midsize Cars,2011,Hybrid,270V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+34,33.5194,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,32011,Honda,CR-Z,Two Seaters,2012,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+36,35.8148,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,32012,Honda,CR-Z,Two Seaters,2012,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+41,41.0244,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,32053,Honda,Insight,Compact Cars,2012,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+41,41.1074,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,32054,Honda,Insight,Compact Cars,2012,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+34,33.9203,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,32055,Lexus,HS 250h,Compact Cars,2012,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+20,19.7016,0,4.4,Rear-Wheel Drive,Premium,Premium Gasoline,32073,BMW,ActiveHybrid 7,Midsize Cars,2012,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+20,20.4375,0,5,All-Wheel Drive,Premium,Premium Gasoline,32084,Lexus,LS 600h L,Midsize Cars,2012,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+40,40.0665,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,32092,Toyota,Camry Hybrid LE,Midsize Cars,2012,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+39,38.5315,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,32093,Toyota,Camry Hybrid XLE,Midsize Cars,2012,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+20,19.7016,0,4.4,Rear-Wheel Drive,Premium,Premium Gasoline,32098,BMW,ActiveHybrid 7L,Large Cars,2012,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+50,49.5183,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,32183,Toyota,Prius c,Compact Cars,2012,Hybrid,144V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+36,36.0816,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,32186,Hyundai,Sonata Hybrid,Midsize Cars,2012,Hybrid,270V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+36,36,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,32187,Kia,Optima Hybrid,Midsize Cars,2012,Hybrid,270V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,28.6813,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,32208,Chevrolet,Malibu eAssist,Midsize Cars,2013,Hybrid,115V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+31,31.3156,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,32339,Lexus,GS 450h,Midsize Cars,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+29,29.4292,0,3.5,Front-Wheel Drive,Premium,Premium Gasoline,32344,Lexus,RX 450h,Small Sport Utility Vehicle 2WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+28,28.3029,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,32350,Lexus,RX 450h AWD,Small Sport Utility Vehicle 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+29,28.6813,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,32399,Buick,Regal eAssist,Midsize Cars,2013,Hybrid,115V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,28.6813,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,32400,Buick,LaCrosse eAssist,Midsize Cars,2013,Hybrid,115V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+29,28.6262,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,32493,Infiniti,M35h,Midsize Cars,2013,Hybrid,346V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,32626,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,32627,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0219,0,6,4-Wheel Drive,Regular,Regular Gasoline,32628,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0219,0,6,4-Wheel Drive,Regular,Regular Gasoline,32629,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,32644,Cadillac,Escalade Hybrid 2WD,Standard Sport Utility Vehicle 2WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,32645,Chevrolet,Tahoe Hybrid 2WD,Standard Sport Utility Vehicle 2WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0782,0,6,Rear-Wheel Drive,Regular,Regular Gasoline,32646,GMC,Yukon 1500 Hybrid 2WD,Standard Sport Utility Vehicle 2WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.2834,0,6,4-Wheel Drive,Regular,Regular Gasoline,32649,Cadillac,Escalade Hybrid 4WD,Standard Sport Utility Vehicle 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0219,0,6,4-Wheel Drive,Regular,Regular Gasoline,32650,Chevrolet,Tahoe Hybrid 4WD,Standard Sport Utility Vehicle 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.2834,0,6,4-Wheel Drive,Regular,Regular Gasoline,32651,GMC,Yukon 1500 Hybrid 4WD,Standard Sport Utility Vehicle 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.2834,0,6,4-Wheel Drive,Regular,Regular Gasoline,32652,GMC,Yukon Denali 1500 Hybrid 4WD,Standard Sport Utility Vehicle 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+40,39.6307,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,32711,Lexus,ES 300h,Midsize Cars,2013,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+21,21.4108,0,3,All-Wheel Drive,Premium,Premium Gasoline,32737,Volkswagen,Touareg Hybrid,Standard Sport Utility Vehicle 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.0341,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,32795,Mercedes-Benz,S400 Hybrid,Large Cars,2013,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+25,25.3067,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,32798,Porsche,Panamera S Hybrid,Large Cars,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.4108,0,3,All-Wheel Drive,Premium,Premium Gasoline,32813,Porsche,Cayenne S Hybrid,Standard Sport Utility Vehicle 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+40,40,0,2,Front-Wheel Drive,Regular,Regular Gasoline,33010,Ford,C-MAX Hybrid FWD,Large Cars,2013,Hybrid,280V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,27.9884,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,33072,BMW,ActiveHybrid 3,Compact Cars,2013,Hybrid,374V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+26,25.6519,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,33073,BMW,ActiveHybrid 5,Midsize Cars,2013,Hybrid,374V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+41,41.3064,0,2,Front-Wheel Drive,Regular,Regular Gasoline,33083,Ford,Fusion Hybrid FWD,Midsize Cars,2013,Hybrid,280V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38.0128,0,1.5,Front-Wheel Drive,Premium,Premium Gasoline,33148,Acura,ILX Hybrid,Compact Cars,2013,Hybrid,144V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+41,41.0125,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,33158,Honda,Insight,Compact Cars,2013,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+41,41.1117,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,33159,Honda,Insight,Compact Cars,2013,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+28,27.5591,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,33260,Toyota,Highlander Hybrid 4WD,Standard Sport Utility Vehicle 4WD,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+42,42,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,33288,Lexus,CT 200h,Compact Cars,2013,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38,0,2,Front-Wheel Drive,Regular,Regular Gasoline,33295,Lincoln,MKZ Hybrid FWD,Midsize Cars,2013,Hybrid,275V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+25,25.4445,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,33296,BMW,ActiveHybrid 7L,Large Cars,2013,Hybrid,374V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+26,26.3065,0,2,All-Wheel Drive,Premium,Premium Gasoline,33301,Audi,Q5 Hybrid,Small Sport Utility Vehicle 4WD,2013,Hybrid,266V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+50,49.5173,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,33315,Toyota,Prius c,Compact Cars,2013,Hybrid,144V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+48,47.6621,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,33324,Toyota,Prius,Midsize Cars,2013,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+41,40.8482,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,33331,Toyota,Prius v,Midsize Station Wagons,2013,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+26,26.4116,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,33343,Mercedes-Benz,E400 Hybrid,Midsize Cars,2013,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+26,25.6524,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,33363,BMW,ActiveHybrid 5,Midsize Cars,2012,Hybrid,374V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+44,44.098,0,1.4,Front-Wheel Drive,Premium,Premium Gasoline,33366,Volkswagen,Jetta Hybrid,Compact Cars,2013,Hybrid,220V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+20,20.4182,0,5,All-Wheel Drive,Premium,Premium Gasoline,33371,Lexus,LS 600h L,Midsize Cars,2013,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+40,39.6307,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,33373,Toyota,Avalon Hybrid,Midsize Cars,2013,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+40,40.0374,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,33374,Toyota,Camry Hybrid LE,Midsize Cars,2013,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+39,38.5333,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,33375,Toyota,Camry Hybrid XLE,Midsize Cars,2013,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+33,33.3612,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,33465,Honda,CR-Z,Two Seaters,2013,Hybrid,144V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+36,36.397,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,33501,Honda,CR-Z,Two Seaters,2013,Hybrid,144V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+44,43.634,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,33507,Honda,Civic Hybrid,Compact Cars,2013,Hybrid,144V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+37,36.5085,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,33528,Hyundai,Sonata Hybrid Limited,Midsize Cars,2013,Hybrid,270V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+37,36.6693,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,33529,Hyundai,Sonata Hybrid,Midsize Cars,2013,Hybrid,270V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+36,35.9523,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,33530,Kia,Optima Hybrid EX,Midsize Cars,2013,Hybrid,270V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+37,36.6693,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,33531,Kia,Optima Hybrid,Midsize Cars,2013,Hybrid,270V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+38,38.0102,0,1.5,Front-Wheel Drive,Premium,Premium Gasoline,33607,Acura,ILX Hybrid,Compact Cars,2014,Hybrid,144V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+21,21.4108,0,3,All-Wheel Drive,Premium,Premium Gasoline,33756,Volkswagen,Touareg Hybrid,Standard Sport Utility Vehicle 4WD,2014,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,28.3133,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,33837,Buick,Regal eAssist,Midsize Cars,2014,Hybrid,115V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,28.3133,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,33838,Buick,LaCrosse eAssist,Midsize Cars,2014,Hybrid,115V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,28.3133,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,33844,Chevrolet,Malibu eAssist,Midsize Cars,2014,Hybrid,115V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+26,26.4116,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,33848,Mercedes-Benz,E400 Hybrid,Midsize Cars,2014,Hybrid,126V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,28.3133,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,33853,Chevrolet,Impala eAssist,Large Cars,2014,Hybrid,115V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+26,26.3065,0,2,All-Wheel Drive,Premium,Premium Gasoline,33873,Audi,Q5 Hybrid,Small Sport Utility Vehicle 4WD,2014,Hybrid,266V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+31,31.4831,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,34059,Infiniti,Q50 Hybrid,Compact Cars,2014,Hybrid,346V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+30,30.0357,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,34060,Infiniti,Q50S Hybrid,Compact Cars,2014,Hybrid,346V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+30,30.3575,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,34061,Infiniti,Q50 Hybrid AWD,Compact Cars,2014,Hybrid,346V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,28.2413,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,34062,Infiniti,Q50S Hybrid AWD,Compact Cars,2014,Hybrid,346V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+21,21.4108,0,3,All-Wheel Drive,Premium,Premium Gasoline,34129,Porsche,Cayenne S Hybrid,Standard Sport Utility Vehicle 4WD,2014,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+44,44.098,0,1.4,Front-Wheel Drive,Premium,Premium Gasoline,34167,Volkswagen,Jetta Hybrid,Compact Cars,2014,Hybrid,220V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+40,40.0374,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,34290,Toyota,Camry Hybrid LE,Midsize Cars,2014,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+39,38.539,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,34291,Toyota,Camry Hybrid XLE/SE,Midsize Cars,2014,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+41,41.2471,0,2,Front-Wheel Drive,Regular,Regular Gasoline,34312,Ford,Fusion Hybrid FWD,Midsize Cars,2014,Hybrid,280V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38,0,2,Front-Wheel Drive,Regular,Regular Gasoline,34316,Lincoln,MKZ Hybrid FWD,Midsize Cars,2014,Hybrid,280V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+41,40.7853,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,34317,Toyota,Prius v,Midsize Station Wagons,2014,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+41,41.0125,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,34337,Honda,Insight,Compact Cars,2014,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+41,41.1117,0,1.3,Front-Wheel Drive,Regular,Regular Gasoline,34338,Honda,Insight,Compact Cars,2014,Hybrid,101V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+29,29.4292,0,3.5,Front-Wheel Drive,Premium,Premium Gasoline,34379,Lexus,RX 450h,Small Sport Utility Vehicle 2WD,2014,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+28,28.3029,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,34387,Lexus,RX 450h AWD,Small Sport Utility Vehicle 4WD,2014,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+47,46.6875,0,2,Front-Wheel Drive,Regular,Regular Gasoline,34395,Honda,Accord Hybrid,Midsize Cars,2014,Hybrid,259V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+36,36.397,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,34426,Honda,CR-Z,Two Seaters,2014,Hybrid,144V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+33,33.3612,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,34427,Honda,CR-Z,Two Seaters,2014,Hybrid,144V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+28,27.9699,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,34431,BMW,ActiveHybrid 3,Compact Cars,2014,Hybrid,374V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+26,25.6519,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,34433,BMW,ActiveHybrid 5,Midsize Cars,2014,Hybrid,374V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+25,25.4387,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,34438,BMW,ActiveHybrid 7L,Large Cars,2014,Hybrid,374V Li-Ion,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+40,39.6307,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,34481,Lexus,ES 300h,Midsize Cars,2014,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+31,31.3435,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,34484,Lexus,GS 450h,Midsize Cars,2014,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+20,20.4157,0,5,All-Wheel Drive,Premium,Premium Gasoline,34485,Lexus,LS 600h L,Midsize Cars,2014,Hybrid,288V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+40,39.6307,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,34486,Toyota,Avalon Hybrid,Midsize Cars,2014,Hybrid,245V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+48,47.667,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,34489,Toyota,Prius,Midsize Cars,2014,Hybrid,202V Ni-MH,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+26,26,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,34542,Infiniti,QX60 Hybrid FWD,Standard Sport Utility Vehicle 2WD,2014,Hybrid,144V Li-Ion,Tue Oct 29 00:00:00 EDT 2013,Wed Apr 05 00:00:00 EDT 2017
+26,26,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,34543,Nissan,Pathfinder Hybrid 2WD,Standard Sport Utility Vehicle 2WD,2014,Hybrid,144V Li-Ion,Tue Oct 29 00:00:00 EDT 2013,Mon Sep 26 00:00:00 EDT 2016
+26,27.1329,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,34544,Infiniti,QX60 Hybrid AWD,Standard Sport Utility Vehicle 4WD,2014,Hybrid,144V Li-Ion,Tue Oct 29 00:00:00 EDT 2013,Wed Apr 05 00:00:00 EDT 2017
+26,26,0,2.5,4-Wheel Drive,Regular,Regular Gasoline,34545,Nissan,Pathfinder Hybrid 4WD,Standard Sport Utility Vehicle 4WD,2014,Hybrid,144V Li-Ion,Tue Oct 29 00:00:00 EDT 2013,Mon Sep 26 00:00:00 EDT 2016
+42,42,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,34546,Lexus,CT 200h,Compact Cars,2014,Hybrid,202V Ni-MH,Mon Nov 04 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+30,30.2337,0,2,All-Wheel Drive,Regular,Regular Gasoline,34547,Subaru,XV Crosstrek Hybrid AWD,Small Sport Utility Vehicle 4WD,2014,Hybrid,101V Ni-MH,Mon Nov 04 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+30,29.5511,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,34596,Acura,RLX Hybrid,Midsize Cars,2014,Hybrid,260V Li-Ion,Wed Dec 18 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+37,36.6693,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,34597,Hyundai,Sonata Hybrid,Midsize Cars,2014,Hybrid,270V Li-Ion,Wed Dec 18 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+37,36.5085,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,34598,Hyundai,Sonata Hybrid Limited,Midsize Cars,2014,Hybrid,270V Li-Ion,Wed Dec 18 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+31,30.7417,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,34607,Infiniti,Q70 Hybrid,Midsize Cars,2014,Hybrid,346V Li-Ion,Wed Dec 18 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+37,36.6693,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,34610,Kia,Optima Hybrid,Midsize Cars,2014,Hybrid,270V Li-Ion,Wed Dec 18 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+36,35.9523,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,34611,Kia,Optima Hybrid EX,Midsize Cars,2014,Hybrid,270V Li-Ion,Wed Dec 18 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+50,49.5685,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,34639,Toyota,Prius c,Compact Cars,2014,Hybrid,144V Ni-MH,Thu Dec 19 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+39,38.5532,0,2,Front-Wheel Drive,Regular,Regular Gasoline,34696,Ford,C-MAX Hybrid FWD,Large Cars,2014,Hybrid,280V Li-Ion,Wed Jan 22 00:00:00 EST 2014,Mon Sep 26 00:00:00 EDT 2016
+44,43.8792,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,34719,Honda,Civic Hybrid,Compact Cars,2014,Hybrid,144V Li-Ion,Fri Feb 07 00:00:00 EST 2014,Mon Sep 26 00:00:00 EDT 2016
+28,27.6799,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,34723,Toyota,Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,2014,Hybrid,288V Ni-MH,Fri Feb 07 00:00:00 EST 2014,Tue Sep 11 00:00:00 EDT 2018
+28,28.1365,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,34724,Toyota,Highlander Hybrid AWD LE Plus,Standard Sport Utility Vehicle 4WD,2014,Hybrid,288V Ni-MH,Fri Feb 07 00:00:00 EST 2014,Tue Sep 11 00:00:00 EDT 2018
+29,29.4292,0,3.5,Front-Wheel Drive,Premium,Premium Gasoline,34779,Lexus,RX 450h,Small Sport Utility Vehicle 2WD,2015,Hybrid,288V Ni-MH,Fri Mar 21 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+28,28.3029,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,34782,Lexus,RX 450h AWD,Small Sport Utility Vehicle 4WD,2015,Hybrid,288V Ni-MH,Fri Mar 21 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+28,28.3133,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,35001,Buick,Regal eAssist,Midsize Cars,2015,Hybrid,115V Li-Ion,Fri Jun 06 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+28,28.3133,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,35002,Buick,LaCrosse eAssist,Midsize Cars,2015,Hybrid,115V Li-Ion,Fri Jun 06 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+26,26.3065,0,2,All-Wheel Drive,Premium,Premium Gasoline,35113,Audi,Q5 Hybrid,Small Sport Utility Vehicle 4WD,2015,Hybrid,266V Li-Ion,Mon Jun 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+37,36.6693,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,35193,Hyundai,Sonata Hybrid,Midsize Cars,2015,Hybrid,270V Li-Ion,Thu Jun 26 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+37,36.5085,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,35194,Hyundai,Sonata Hybrid Limited,Midsize Cars,2015,Hybrid,270V Li-Ion,Thu Jun 26 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+41,41.237,0,2,Front-Wheel Drive,Regular,Regular Gasoline,35259,Ford,Fusion Hybrid FWD,Midsize Cars,2015,Hybrid,280V Li-Ion,Wed Jul 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+40,40,0,2,Front-Wheel Drive,Regular,Regular Gasoline,35272,Lincoln,MKZ Hybrid FWD,Midsize Cars,2015,Hybrid,280V Li-Ion,Wed Jul 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+37,36.6693,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,35442,Kia,Optima Hybrid,Midsize Cars,2015,Hybrid,270V Li-Ion,Mon Aug 04 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+36,35.9523,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,35443,Kia,Optima Hybrid EX,Midsize Cars,2015,Hybrid,270V Li-Ion,Mon Aug 04 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+28,27.6902,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,35525,Toyota,Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,2015,Hybrid,288V Ni-MH,Tue Aug 12 00:00:00 EDT 2014,Tue Sep 11 00:00:00 EDT 2018
+28,28.138,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,35526,Toyota,Highlander Hybrid AWD LE Plus,Standard Sport Utility Vehicle 4WD,2015,Hybrid,288V Ni-MH,Tue Aug 12 00:00:00 EDT 2014,Tue Sep 11 00:00:00 EDT 2018
+28,27.9564,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,35540,BMW,ActiveHybrid 3,Compact Cars,2015,Hybrid,374V Li-Ion,Wed Aug 20 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+26,25.6519,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,35545,BMW,ActiveHybrid 5,Midsize Cars,2015,Hybrid,374V Li-Ion,Wed Aug 20 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+48,47.8398,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,35556,Toyota,Prius,Midsize Cars,2015,Hybrid,202V Ni-MH,Wed Aug 20 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+25,25.4387,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,35562,BMW,ActiveHybrid 7L,Large Cars,2015,Hybrid,374V Li-Ion,Wed Aug 20 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+42,42,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,35614,Lexus,CT 200h,Compact Cars,2015,Hybrid,202V Ni-MH,Thu Sep 04 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+47,46.6875,0,2,Front-Wheel Drive,Regular,Regular Gasoline,35627,Honda,Accord Hybrid,Midsize Cars,2015,Hybrid,259V Li-Ion,Thu Sep 04 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+36,36.397,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,35657,Honda,CR-Z,Two Seaters,2015,Hybrid,144V Li-Ion,Thu Sep 11 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+33,33.3612,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,35658,Honda,CR-Z,Two Seaters,2015,Hybrid,144V Li-Ion,Thu Sep 11 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+44,43.8792,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,35667,Honda,Civic Hybrid,Compact Cars,2015,Hybrid,144V Li-Ion,Thu Sep 11 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+44,44.098,0,1.4,Front-Wheel Drive,Premium,Premium Gasoline,35673,Volkswagen,Jetta Hybrid,Compact Cars,2015,Hybrid,220V Li-Ion,Thu Sep 11 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+31,30.7417,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,35674,Infiniti,Q70 Hybrid,Midsize Cars,2015,Hybrid,346V Li-Ion,Thu Sep 11 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+40,39.6361,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,35716,Lexus,ES 300h,Midsize Cars,2015,Hybrid,245V Ni-MH,Thu Sep 18 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+21,21.4108,0,3,All-Wheel Drive,Premium,Premium Gasoline,35731,Volkswagen,Touareg Hybrid,Standard Sport Utility Vehicle 4WD,2015,Hybrid,288V Ni-MH,Thu Sep 18 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+40,40.0665,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,35736,Toyota,Camry Hybrid LE,Midsize Cars,2015,Hybrid,245V Ni-MH,Thu Sep 25 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+39,38.5392,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,35737,Toyota,Camry Hybrid XLE/SE,Midsize Cars,2015,Hybrid,245V Ni-MH,Thu Sep 25 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+39,38.5532,0,2,Front-Wheel Drive,Regular,Regular Gasoline,35738,Ford,C-MAX Hybrid FWD,Large Cars,2015,Hybrid,280V Li-Ion,Thu Sep 25 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+31,31,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,35768,Infiniti,Q50 Hybrid,Compact Cars,2015,Hybrid,346V Li-Ion,Mon Oct 06 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+30,30.0357,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,35769,Infiniti,Q50S Hybrid,Compact Cars,2015,Hybrid,346V Li-Ion,Mon Oct 06 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+30,30.3575,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,35770,Infiniti,Q50 Hybrid AWD,Compact Cars,2015,Hybrid,346V Li-Ion,Mon Oct 06 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+28,28.2413,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,35771,Infiniti,Q50S Hybrid AWD,Compact Cars,2015,Hybrid,346V Li-Ion,Mon Oct 06 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+50,49.5553,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,35775,Toyota,Prius c,Compact Cars,2015,Hybrid,144V Ni-MH,Mon Oct 06 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+31,31.3286,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,35779,Lexus,GS 450h,Midsize Cars,2015,Hybrid,288V Ni-MH,Mon Oct 06 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+40,39.6361,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,35780,Toyota,Avalon Hybrid,Midsize Cars,2015,Hybrid,245V Ni-MH,Mon Oct 06 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+41,40.7861,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,35782,Toyota,Prius v,Midsize Station Wagons,2015,Hybrid,202V Ni-MH,Mon Oct 06 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+32,32.3028,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,35785,Lexus,NX 300h,Small Sport Utility Vehicle 2WD,2015,Hybrid,245V Ni-MH,Mon Oct 06 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+31,31.4881,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,35788,Lexus,NX 300h AWD,Small Sport Utility Vehicle 4WD,2015,Hybrid,245V Ni-MH,Mon Oct 06 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+31,30.9993,0,2,All-Wheel Drive,Regular,Regular Gasoline,35791,Subaru,XV Crosstrek Hybrid AWD,Small Sport Utility Vehicle 4WD,2015,Hybrid,101V Ni-MH,Mon Oct 06 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+26,26,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,35830,Infiniti,QX60 Hybrid FWD,Standard Sport Utility Vehicle 2WD,2015,Hybrid,144V Li-Ion,Thu Oct 09 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+26,26,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,35831,Nissan,Pathfinder Hybrid 2WD,Standard Sport Utility Vehicle 2WD,2015,Hybrid,144V Li-Ion,Thu Oct 09 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+26,26,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,35836,Infiniti,QX60 Hybrid AWD,Standard Sport Utility Vehicle 4WD,2015,Hybrid,144V Li-Ion,Thu Oct 09 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+26,26,0,2.5,4-Wheel Drive,Regular,Regular Gasoline,35840,Nissan,Pathfinder Hybrid 4WD,Standard Sport Utility Vehicle 4WD,2015,Hybrid,144V Li-Ion,Thu Oct 09 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+14,13.7524,0,6.3,Rear-Wheel Drive,Premium,Premium Gasoline,35841,Ferrari,LaFerrari Hybrid,Two Seaters,2014,Hybrid,Two 480V Li-Ion,Mon Oct 13 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+25,25.3957,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,35890,Mercedes-Benz,E400 Hybrid,Midsize Cars,2015,Hybrid,126V Li-Ion,Thu Nov 06 00:00:00 EST 2014,Mon Sep 26 00:00:00 EDT 2016
+20,20.4375,0,5,All-Wheel Drive,Premium,Premium Gasoline,35904,Lexus,LS 600h L,Midsize Cars,2015,Hybrid,288V Ni-MH,Thu Nov 20 00:00:00 EST 2014,Wed Apr 05 00:00:00 EDT 2017
+30,29.5515,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,36047,Acura,RLX Hybrid,Midsize Cars,2016,Hybrid,260V Li-Ion,Fri Feb 27 00:00:00 EST 2015,Wed Apr 05 00:00:00 EDT 2017
+40,39.5773,0,2,Front-Wheel Drive,Regular,Regular Gasoline,36100,Hyundai,Sonata Hybrid,Midsize Cars,2016,Hybrid,270V Li-Ion,Tue Mar 17 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+41,40.657,0,2,Front-Wheel Drive,Regular,Regular Gasoline,36101,Hyundai,Sonata Hybrid SE,Midsize Cars,2016,Hybrid,270V Li-Ion,Tue Mar 17 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+41,41.3481,0,2,Front-Wheel Drive,Regular,Regular Gasoline,36160,Ford,Fusion Hybrid FWD,Midsize Cars,2016,Hybrid,280V Li-Ion,Thu Apr 09 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+40,40,0,2,Front-Wheel Drive,Regular,Regular Gasoline,36161,Lincoln,MKZ Hybrid FWD,Midsize Cars,2016,Hybrid,280V Li-Ion,Thu Apr 09 00:00:00 EDT 2015,Fri Dec 02 00:00:00 EST 2016
+26,26.3065,0,2,All-Wheel Drive,Premium,Premium Gasoline,36424,Audi,Q5 Hybrid,Small Sport Utility Vehicle 4WD,2016,Hybrid,266V Li-Ion,Wed Jun 24 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+28,28.3133,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,36459,Buick,Regal eAssist,Midsize Cars,2016,Hybrid,115V Li-Ion,Thu Jul 02 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+28,28.3133,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,36460,Buick,LaCrosse eAssist,Midsize Cars,2016,Hybrid,115V Li-Ion,Thu Jul 02 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+37,36.6693,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,36469,Kia,Optima Hybrid,Midsize Cars,2016,Hybrid,270V Li-Ion,Thu Jul 02 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+36,35.9523,0,2.4,Front-Wheel Drive,Regular,Regular Gasoline,36470,Kia,Optima Hybrid EX,Midsize Cars,2016,Hybrid,270V Li-Ion,Thu Jul 02 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+40,39.6361,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,36749,Lexus,ES 300h,Midsize Cars,2016,Hybrid,245V Ni-MH,Thu Aug 06 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+40,40.0665,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,36796,Toyota,Camry Hybrid LE,Midsize Cars,2016,Hybrid,245V Ni-MH,Wed Aug 12 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+39,38.5448,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,36797,Toyota,Camry Hybrid XLE/SE,Midsize Cars,2016,Hybrid,245V Ni-MH,Wed Aug 12 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+44,44.3466,0,1.4,Front-Wheel Drive,Premium,Premium Gasoline,36821,Volkswagen,Jetta Hybrid,Compact Cars,2016,Hybrid,220V Li-Ion,Tue Aug 18 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+31,30.9993,0,2,All-Wheel Drive,Regular,Regular Gasoline,36833,Subaru,XV Crosstrek Hybrid AWD,Small Sport Utility Vehicle 4WD,2016,Hybrid,101V Ni-MH,Tue Aug 18 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+41,40.9372,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,36855,Toyota,Prius v,Midsize Station Wagons,2016,Hybrid,202V Ni-MH,Wed Aug 26 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+42,41.5854,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,36890,Lexus,CT 200h,Compact Cars,2016,Hybrid,202V Ni-MH,Fri Sep 04 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+39,38.5532,0,2,Front-Wheel Drive,Regular,Regular Gasoline,36915,Ford,C-MAX Hybrid FWD,Large Cars,2016,Hybrid,280V Li-Ion,Wed Sep 09 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+32,32.299,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,37057,Lexus,NX 300h,Small Sport Utility Vehicle 2WD,2016,Hybrid,245V Ni-MH,Mon Oct 19 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+31,31.4862,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,37061,Lexus,NX 300h AWD,Small Sport Utility Vehicle 4WD,2016,Hybrid,245V Ni-MH,Mon Oct 19 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+20,20.436,0,5,All-Wheel Drive,Premium,Premium Gasoline,37082,Lexus,LS 600h L,Midsize Cars,2016,Hybrid,288V Ni-MH,Wed Oct 28 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+50,49.5456,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,37092,Toyota,Prius c,Compact Cars,2016,Hybrid,144V Ni-MH,Wed Nov 04 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+33,33.3612,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,37093,Honda,CR-Z,Two Seaters,2016,Hybrid,144V Li-Ion,Wed Nov 04 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+36,36.397,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,37094,Honda,CR-Z,Two Seaters,2016,Hybrid,144V Li-Ion,Wed Nov 04 00:00:00 EST 2015,Wed Apr 05 00:00:00 EDT 2017
+40,39.6361,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,37104,Toyota,Avalon Hybrid,Midsize Cars,2016,Hybrid,245V Ni-MH,Wed Nov 04 00:00:00 EST 2015,Wed Apr 05 00:00:00 EDT 2017
+30,30.3393,0,3.5,Front-Wheel Drive,Premium,Premium Gasoline,37107,Lexus,RX 450h,Small Sport Utility Vehicle 2WD,2016,Hybrid,288V Ni-MH,Wed Nov 04 00:00:00 EST 2015,Wed Apr 05 00:00:00 EDT 2017
+32,32.2485,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,37110,Toyota,RAV4 Hybrid AWD,Small Sport Utility Vehicle 4WD,2016,Hybrid,245V Ni-MH,Wed Nov 04 00:00:00 EST 2015,Wed Apr 05 00:00:00 EDT 2017
+30,29.5132,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,37111,Lexus,RX 450h AWD,Standard Sport Utility Vehicle 4WD,2016,Hybrid,288V Ni-MH,Wed Nov 04 00:00:00 EST 2015,Wed Apr 05 00:00:00 EDT 2017
+26,25.6519,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,37112,BMW,ActiveHybrid 5,Midsize Cars,2016,Hybrid,374V Li-Ion,Thu Nov 12 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+31,30.7417,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,37115,Infiniti,Q70 Hybrid,Midsize Cars,2016,Hybrid,346V Li-Ion,Thu Nov 12 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+28,27.5209,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,37127,Toyota,Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,2016,Hybrid,288V Ni-MH,Thu Nov 12 00:00:00 EST 2015,Tue Sep 11 00:00:00 EDT 2018
+28,28.138,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,37128,Toyota,Highlander Hybrid AWD LE Plus,Standard Sport Utility Vehicle 4WD,2016,Hybrid,288V Ni-MH,Thu Nov 12 00:00:00 EST 2015,Tue Sep 11 00:00:00 EDT 2018
+31,31.3286,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,37148,Lexus,GS 450h,Midsize Cars,2016,Hybrid,288V Ni-MH,Wed Dec 02 00:00:00 EST 2015,Wed Apr 05 00:00:00 EDT 2017
+52,52.0824,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,37163,Toyota,Prius,Midsize Cars,2016,Hybrid,202V Ni-MH,Thu Dec 17 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+56,55.7,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,37164,Toyota,Prius Eco,Midsize Cars,2016,Hybrid,207V Li-Ion,Thu Dec 17 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+30,30.0357,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,37250,Infiniti,Q50 Hybrid,Compact Cars,2016,Hybrid,346V Li-Ion,Tue Feb 02 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+28,28.2413,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,37251,Infiniti,Q50 Hybrid AWD,Compact Cars,2016,Hybrid,346V Li-Ion,Tue Feb 02 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+29,28.6088,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,37268,Nissan,Murano Hybrid FWD,Midsize Station Wagons,2016,Hybrid,144V Li-Ion,Wed Feb 10 00:00:00 EST 2016,Wed Apr 05 00:00:00 EDT 2017
+27,27.2543,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,37269,Nissan,Murano Hybrid AWD,Midsize Station Wagons,2016,Hybrid,144V Li-Ion,Wed Feb 10 00:00:00 EST 2016,Wed Apr 05 00:00:00 EDT 2017
+26,26,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,37282,Infiniti,QX60 Hybrid FWD,Standard Sport Utility Vehicle 2WD,2016,Hybrid,144V Li-Ion,Wed Feb 24 00:00:00 EST 2016,Wed Apr 05 00:00:00 EDT 2017
+26,26,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,37283,Infiniti,QX60 Hybrid AWD,Standard Sport Utility Vehicle 4WD,2016,Hybrid,144V Li-Ion,Wed Feb 24 00:00:00 EST 2016,Wed Apr 05 00:00:00 EDT 2017
+46,46.3086,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,37297,Chevrolet,Malibu Hybrid,Midsize Cars,2016,Hybrid,300V Li-Ion,Thu Mar 10 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+20,19.8641,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,37370,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2016,Hybrid,86V Li-Ion,Tue Apr 12 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+20,19.8641,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,37371,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2016,Hybrid,86V Li-Ion,Tue Apr 12 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+18,18.1598,0,5.3,4-Wheel Drive,Regular,Regular Gasoline,37372,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2016,Hybrid,86V Li-Ion,Tue Apr 12 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+18,18.1598,0,5.3,4-Wheel Drive,Regular,Regular Gasoline,37373,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2016,Hybrid,86V Li-Ion,Tue Apr 12 00:00:00 EDT 2016,Mon Sep 26 00:00:00 EDT 2016
+42,42.3238,0,2,Front-Wheel Drive,Regular,Regular Gasoline,37383,Ford,Fusion Hybrid FWD,Midsize Cars,2017,Hybrid,280V Li-Ion,Wed Apr 20 00:00:00 EDT 2016,Fri Dec 02 00:00:00 EST 2016
+40,40,0,2,Front-Wheel Drive,Regular,Regular Gasoline,37385,Lincoln,MKZ Hybrid FWD,Midsize Cars,2017,Hybrid,280V Li-Ion,Wed Apr 20 00:00:00 EDT 2016,Tue Sep 13 00:00:00 EDT 2016
+21,21,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,37436,Acura,NSX Hybrid,Two Seaters,2017,Hybrid,260V Li-Ion,Tue May 10 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+41,40.8872,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,37463,Toyota,Prius v,Midsize Station Wagons,2017,Hybrid,202V Ni-MH,Tue May 24 00:00:00 EDT 2016,Wed Oct 26 00:00:00 EDT 2016
+42,41.5653,0,2,Front-Wheel Drive,Regular,Regular Gasoline,37531,Hyundai,Sonata Hybrid SE,Midsize Cars,2017,Hybrid,270V Li-Ion,Fri Jun 10 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+40,40.1572,0,2,Front-Wheel Drive,Regular,Regular Gasoline,37532,Hyundai,Sonata Hybrid,Midsize Cars,2017,Hybrid,270V Li-Ion,Fri Jun 10 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+42,41.5854,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,37619,Lexus,CT 200h,Compact Cars,2017,Hybrid,202V Ni-MH,Thu Jul 07 00:00:00 EDT 2016,Tue Nov 22 00:00:00 EST 2016
+20,19.8646,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,37640,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2017,Hybrid,86V Li-Ion,Thu Jul 07 00:00:00 EDT 2016,Fri Dec 02 00:00:00 EST 2016
+20,19.8646,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,37644,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2017,Hybrid,86V Li-Ion,Thu Jul 07 00:00:00 EDT 2016,Wed Jul 19 00:00:00 EDT 2017
+18,18.1598,0,5.3,4-Wheel Drive,Regular,Regular Gasoline,37649,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2017,Hybrid,86V Li-Ion,Thu Jul 07 00:00:00 EDT 2016,Fri Dec 02 00:00:00 EST 2016
+18,18.1598,0,5.3,4-Wheel Drive,Regular,Regular Gasoline,37655,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2017,Hybrid,86V Li-Ion,Thu Jul 07 00:00:00 EDT 2016,Wed Jul 19 00:00:00 EDT 2017
+48,47.6804,0,2,Front-Wheel Drive,Regular,Regular Gasoline,37825,Honda,Accord Hybrid,Midsize Cars,2017,Hybrid,259V Li-Ion,Wed Jul 27 00:00:00 EDT 2016,Fri Sep 09 00:00:00 EDT 2016
+42,41.9017,0,2,Front-Wheel Drive,Regular,Regular Gasoline,37826,Kia,Optima Hybrid,Midsize Cars,2017,Hybrid,270V Li-Ion,Wed Jul 27 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+40,40.0665,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,37828,Toyota,Camry Hybrid LE,Midsize Cars,2017,Hybrid,245V Ni-MH,Wed Jul 27 00:00:00 EDT 2016,Wed Oct 26 00:00:00 EDT 2016
+38,38.4949,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,37829,Toyota,Camry Hybrid XLE/SE,Midsize Cars,2017,Hybrid,245V Ni-MH,Wed Jul 27 00:00:00 EDT 2016,Wed Oct 26 00:00:00 EDT 2016
+29,29,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,37920,Acura,RLX Hybrid,Midsize Cars,2017,Hybrid,260V Li-Ion,Tue Aug 02 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+13,12.9973,0,6.3,Part-time 4-Wheel Drive,Premium,Premium Gasoline,38047,Ferrari,LaFerrari Aperta,Two Seaters,2017,Hybrid,Two 444V Li-Ion,Thu Aug 25 00:00:00 EDT 2016,Tue Apr 11 00:00:00 EDT 2017
+52,51.8149,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,38061,Toyota,Prius,Midsize Cars,2017,Hybrid,207V Li-Ion,Thu Aug 25 00:00:00 EDT 2016,Wed Oct 26 00:00:00 EDT 2016
+56,55.7,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,38062,Toyota,Prius Eco,Midsize Cars,2017,Hybrid,207V Li-Ion,Thu Aug 25 00:00:00 EDT 2016,Wed Oct 26 00:00:00 EDT 2016
+32,32.2469,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,38075,Toyota,RAV4 Hybrid AWD,Small Sport Utility Vehicle 4WD,2017,Hybrid,245V Ni-MH,Thu Aug 25 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+46,46.3689,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,38097,Chevrolet,Malibu Hybrid,Midsize Cars,2017,Hybrid,300V Li-Ion,Thu Sep 01 00:00:00 EDT 2016,Thu Jul 13 00:00:00 EDT 2017
+40,39.6361,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,38111,Lexus,ES 300h,Midsize Cars,2017,Hybrid,245V Ni-MH,Thu Sep 01 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+30,29.7691,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,38167,Lexus,RX 450h AWD,Standard Sport Utility Vehicle 4WD,2017,Hybrid,288V Ni-MH,Tue Sep 13 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+31,31.3286,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,38206,Lexus,GS 450h,Midsize Cars,2017,Hybrid,288V Ni-MH,Mon Sep 26 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+26,26.0703,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,38225,Infiniti,QX60 Hybrid FWD,Standard Sport Utility Vehicle 2WD,2017,Hybrid,144V Li-Ion,Mon Sep 26 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+26,25.7593,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,38227,Infiniti,QX60 Hybrid AWD,Standard Sport Utility Vehicle 4WD,2017,Hybrid,144V Li-Ion,Mon Sep 26 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+31,31.4851,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,38287,Lexus,NX 300h AWD,Small Sport Utility Vehicle 4WD,2017,Hybrid,245V Ni-MH,Wed Oct 05 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+29,28.8838,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,38292,Infiniti,Q50 Hybrid,Compact Cars,2017,Hybrid,346V Li-Ion,Wed Oct 12 00:00:00 EDT 2016,Tue Feb 21 00:00:00 EST 2017
+28,27.7056,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,38293,Infiniti,Q50 Hybrid AWD,Compact Cars,2017,Hybrid,346V Li-Ion,Wed Oct 12 00:00:00 EDT 2016,Tue Feb 21 00:00:00 EST 2017
+40,39.6361,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,38295,Toyota,Avalon Hybrid,Midsize Cars,2017,Hybrid,245V Ni-MH,Wed Oct 12 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+30,30.1103,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,38373,Infiniti,Q70 Hybrid,Midsize Cars,2017,Hybrid,346V Li-Ion,Mon Nov 07 00:00:00 EST 2016,Wed Jan 25 00:00:00 EST 2017
+28,28.3914,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,38425,Toyota,Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,2017,Hybrid,288V Ni-MH,Mon Nov 14 00:00:00 EST 2016,Tue Sep 11 00:00:00 EDT 2018
+29,28.9073,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,38426,Toyota,Highlander Hybrid AWD LE Plus,Standard Sport Utility Vehicle 4WD,2017,Hybrid,288V Ni-MH,Mon Nov 14 00:00:00 EST 2016,Tue Sep 11 00:00:00 EDT 2018
+55,54.5772,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,38484,Hyundai,Ioniq,Large Cars,2017,Hybrid,240V Li-Ion,Fri Dec 02 00:00:00 EST 2016,Tue Nov 28 00:00:00 EST 2017
+58,57.7824,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,38485,Hyundai,Ioniq Blue,Large Cars,2017,Hybrid,240V Li-Ion,Fri Dec 02 00:00:00 EST 2016,Tue Nov 28 00:00:00 EST 2017
+49,48.6987,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,38486,Kia,Niro,Small Station Wagons,2017,Hybrid,240V Li-Ion,Fri Dec 02 00:00:00 EST 2016,Tue Feb 21 00:00:00 EST 2017
+40,39.9461,0,2,Front-Wheel Drive,Regular,Regular Gasoline,38495,Ford,C-MAX Hybrid FWD,Large Cars,2017,Hybrid,280V Li-Ion,Mon Dec 12 00:00:00 EST 2016,Wed Jan 25 00:00:00 EST 2017
+43,43.175,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,38496,Kia,Niro Touring,Small Station Wagons,2017,Hybrid,240V Li-Ion,Mon Dec 12 00:00:00 EST 2016,Tue Feb 21 00:00:00 EST 2017
+50,50.4101,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,38497,Kia,Niro FE,Small Station Wagons,2017,Hybrid,240V Li-Ion,Mon Dec 12 00:00:00 EST 2016,Tue Feb 21 00:00:00 EST 2017
+46,46.2506,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,38508,Toyota,Prius c,Compact Cars,2017,Hybrid,144V Ni-MH,Thu Dec 22 00:00:00 EST 2016,Fri Nov 10 00:00:00 EST 2017
+34,34.4284,0,2,Front-Wheel Drive,Regular,Regular Gasoline,38510,Nissan,Rogue Hybrid  FWD,Small Sport Utility Vehicle 2WD,2017,Hybrid,202V Li-Ion,Thu Dec 22 00:00:00 EST 2016,Tue Feb 21 00:00:00 EST 2017
+33,32.6188,0,2,All-Wheel Drive,Regular,Regular Gasoline,38511,Nissan,Rogue Hybrid  AWD,Small Sport Utility Vehicle 4WD,2017,Hybrid,202V Li-Ion,Thu Dec 22 00:00:00 EST 2016,Tue Feb 21 00:00:00 EST 2017
+27,26.8123,0,3,All-Wheel Drive,Premium,Premium Gasoline,38567,Acura,MDX Hybrid AWD,Small Sport Utility Vehicle 4WD,2017,Hybrid,259V Li-Ion,Thu Mar 02 00:00:00 EST 2017,Wed Apr 19 00:00:00 EDT 2017
+30,29.6181,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,38677,Lexus,LC 500h,Subcompact Cars,2018,Hybrid,311V Li-Ion,Wed May 03 00:00:00 EDT 2017,Mon Jun 05 00:00:00 EDT 2017
+40,39.6361,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,38786,Toyota,Avalon Hybrid,Midsize Cars,2018,Hybrid,245V Ni-MH,Mon Jun 12 00:00:00 EDT 2017,Fri Nov 10 00:00:00 EST 2017
+52,51.7126,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,38936,Toyota,Camry Hybrid LE,Midsize Cars,2018,Hybrid,259V Li-Ion,Thu Jul 13 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+46,46.2351,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,38937,Toyota,Camry Hybrid XLE/SE,Midsize Cars,2018,Hybrid,245V Ni-MH,Thu Jul 13 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+20,19.8641,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,38942,Chevrolet,Silverado 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2018,Hybrid,86V Li-Ion,Thu Jul 13 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+20,19.8641,0,5.3,Rear-Wheel Drive,Regular,Regular Gasoline,38944,GMC,Sierra 15 Hybrid 2WD,Standard Pickup Trucks 2WD,2018,Hybrid,86V Li-Ion,Thu Jul 13 00:00:00 EDT 2017,Tue Dec 18 00:00:00 EST 2018
+18,18.0971,0,5.3,4-Wheel Drive,Regular,Regular Gasoline,38946,Chevrolet,Silverado 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2018,Hybrid,86V Li-Ion,Thu Jul 13 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+18,18.0971,0,5.3,4-Wheel Drive,Regular,Regular Gasoline,38948,GMC,Sierra 15 Hybrid 4WD,Standard Pickup Trucks 4WD,2018,Hybrid,86V Li-Ion,Thu Jul 13 00:00:00 EDT 2017,Tue Dec 18 00:00:00 EST 2018
+46,46.2364,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,39037,Toyota,Prius c,Compact Cars,2018,Hybrid,144V Ni-MH,Wed Jul 26 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+29,28.8838,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,39147,Infiniti,Q50 Hybrid,Compact Cars,2018,Hybrid,346V Li-Ion,Thu Aug 03 00:00:00 EDT 2017,Wed Oct 11 00:00:00 EDT 2017
+28,27.7056,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,39148,Infiniti,Q50 Hybrid AWD,Compact Cars,2018,Hybrid,346V Li-Ion,Thu Aug 03 00:00:00 EDT 2017,Wed Oct 11 00:00:00 EDT 2017
+30,30.1103,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,39159,Infiniti,Q70 Hybrid,Midsize Cars,2018,Hybrid,346V Li-Ion,Thu Aug 03 00:00:00 EDT 2017,Mon Oct 23 00:00:00 EDT 2017
+29,28.9502,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,39292,Buick,LaCrosse eAssist,Midsize Cars,2018,Hybrid,86V Li-Ion,Wed Aug 16 00:00:00 EDT 2017,Mon Aug 28 00:00:00 EDT 2017
+42,42,0,2,Front-Wheel Drive,Regular,Regular Gasoline,39298,Ford,Fusion Hybrid FWD,Midsize Cars,2018,Hybrid,280V Li-Ion,Wed Aug 16 00:00:00 EDT 2017,Thu Sep 21 00:00:00 EDT 2017
+46,46.3689,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,39339,Chevrolet,Malibu Hybrid,Midsize Cars,2018,Hybrid,300V Li-Ion,Mon Aug 28 00:00:00 EDT 2017,Wed Jan 24 00:00:00 EST 2018
+32,32.2491,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,39373,Toyota,RAV4 Hybrid AWD,Small Sport Utility Vehicle 4WD,2018,Hybrid,245V Ni-MH,Mon Aug 28 00:00:00 EDT 2017,Wed Jan 24 00:00:00 EST 2018
+40,40,0,2,Front-Wheel Drive,Regular,Regular Gasoline,39431,Lincoln,MKZ Hybrid FWD,Midsize Cars,2018,Hybrid,280V Li-Ion,Mon Sep 11 00:00:00 EDT 2017,Wed Oct 11 00:00:00 EDT 2017
+40,39.6361,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,39539,Lexus,ES 300h,Midsize Cars,2018,Hybrid,245V Ni-MH,Wed Sep 27 00:00:00 EDT 2017,Mon Oct 23 00:00:00 EDT 2017
+31,31.3286,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,39571,Lexus,GS 450h,Midsize Cars,2018,Hybrid,288V Ni-MH,Wed Oct 04 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+31,31.2397,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,39586,Lexus,NX 300h AWD,Small Sport Utility Vehicle 4WD,2018,Hybrid,245V Ni-MH,Wed Oct 04 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+40,39.9461,0,2,Front-Wheel Drive,Regular,Regular Gasoline,39613,Ford,C-MAX Hybrid FWD,Large Cars,2018,Hybrid,280V Li-Ion,Mon Oct 23 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+58,57.7824,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,39614,Hyundai,Ioniq Blue,Large Cars,2018,Hybrid,240V Li-Ion,Mon Oct 23 00:00:00 EDT 2017,Tue Feb 06 00:00:00 EST 2018
+55,54.6019,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,39615,Hyundai,Ioniq,Large Cars,2018,Hybrid,240V Li-Ion,Mon Oct 23 00:00:00 EDT 2017,Tue Feb 06 00:00:00 EST 2018
+49,48.6987,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,39616,Kia,Niro,Small Station Wagons,2018,Hybrid,240V Li-Ion,Mon Oct 23 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+50,50.4101,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,39617,Kia,Niro FE,Small Station Wagons,2018,Hybrid,240V Li-Ion,Mon Oct 23 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+43,43.175,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,39618,Kia,Niro Touring,Small Station Wagons,2018,Hybrid,240V Li-Ion,Mon Oct 23 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+42,41.9017,0,2,Front-Wheel Drive,Regular,Regular Gasoline,39654,Kia,Optima Hybrid,Midsize Cars,2018,Hybrid,270V Li-Ion,Fri Nov 03 00:00:00 EDT 2017,Tue Feb 06 00:00:00 EST 2018
+34,34.4284,0,2,Front-Wheel Drive,Regular,Regular Gasoline,39681,Nissan,Rogue Hybrid  FWD,Small Sport Utility Vehicle 2WD,2018,Hybrid,202V Li-Ion,Fri Nov 03 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+33,32.6226,0,2,All-Wheel Drive,Regular,Regular Gasoline,39692,Nissan,Rogue Hybrid  AWD,Small Sport Utility Vehicle 4WD,2018,Hybrid,202V Li-Ion,Fri Nov 03 00:00:00 EDT 2017,Wed Dec 20 00:00:00 EST 2017
+28,28,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,39714,Acura,RLX Hybrid,Midsize Cars,2018,Hybrid,259V Li-Ion,Fri Nov 10 00:00:00 EST 2017,Tue Nov 28 00:00:00 EST 2017
+52,52.1147,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,39752,Toyota,Prius,Midsize Cars,2018,Hybrid,202V Ni-MH,Tue Nov 28 00:00:00 EST 2017,Wed Dec 20 00:00:00 EST 2017
+56,55.7,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,39753,Toyota,Prius Eco,Midsize Cars,2018,Hybrid,207V Li-Ion,Tue Nov 28 00:00:00 EST 2017,Wed Dec 20 00:00:00 EST 2017
+21,21,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,39787,Acura,NSX Hybrid,Two Seaters,2018,Hybrid,260V Li-Ion,Thu Dec 14 00:00:00 EST 2017,Wed Jan 24 00:00:00 EST 2018
+30,29.7729,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,39829,Lexus,RX 450h AWD,Standard Sport Utility Vehicle 4WD,2018,Hybrid,288V Ni-MH,Wed Jan 03 00:00:00 EST 2018,Tue Feb 06 00:00:00 EST 2018
+28,28.1621,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,39866,Lexus,LS 500h,Midsize Cars,2018,Hybrid,311V Li-Ion,Tue Feb 06 00:00:00 EST 2018,Wed Apr 25 00:00:00 EDT 2018
+26,25.9764,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,39867,Lexus,LS 500h AWD,Midsize Cars,2018,Hybrid,311V Li-Ion,Tue Feb 06 00:00:00 EST 2018,Wed Apr 25 00:00:00 EDT 2018
+27,26.8124,0,3,All-Wheel Drive,Premium,Premium Gasoline,39870,Acura,MDX Hybrid AWD,Small Sport Utility Vehicle 4WD,2018,Hybrid,259V Li-Ion,Tue Feb 06 00:00:00 EST 2018,Mon Mar 26 00:00:00 EDT 2018
+28,28.397,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,39878,Toyota,Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,2018,Hybrid,288V Ni-MH,Mon Feb 12 00:00:00 EST 2018,Mon Dec 03 00:00:00 EST 2018
+29,28.9073,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,39879,Toyota,Highlander Hybrid AWD LE Plus,Standard Sport Utility Vehicle 4WD,2018,Hybrid,288V Ni-MH,Mon Feb 12 00:00:00 EST 2018,Mon Dec 03 00:00:00 EST 2018
+41,41,0,2,Front-Wheel Drive,Regular,Regular Gasoline,39898,Hyundai,Sonata Hybrid,Midsize Cars,2018,Hybrid,270V Li-Ion,Mon Feb 19 00:00:00 EST 2018,Mon Dec 03 00:00:00 EST 2018
+42,42,0,2,Front-Wheel Drive,Regular,Regular Gasoline,39899,Hyundai,Sonata Hybrid SE,Midsize Cars,2018,Hybrid,270V Li-Ion,Mon Feb 19 00:00:00 EST 2018,Mon Dec 03 00:00:00 EST 2018
+47,47.2489,0,2,Front-Wheel Drive,Regular,Regular Gasoline,39918,Honda,Accord Hybrid,Large Cars,2018,Hybrid,259V Li-Ion,Fri Mar 02 00:00:00 EST 2018,Wed Apr 25 00:00:00 EDT 2018
+29,29,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,39927,Lexus,RX 450h L AWD,Standard Sport Utility Vehicle 4WD,2018,Hybrid,288V Ni-MH,Fri Mar 02 00:00:00 EST 2018,Fri Mar 02 00:00:00 EST 2018
+43,43.2262,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,40089,Toyota,Avalon Hybrid,Midsize Cars,2019,Hybrid,245V Ni-MH,Mon May 07 00:00:00 EDT 2018,Fri Aug 10 00:00:00 EDT 2018
+44,43.6328,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,40090,Toyota,Avalon Hybrid XLE,Midsize Cars,2019,Hybrid,245V Ni-MH,Mon May 07 00:00:00 EDT 2018,Fri Aug 10 00:00:00 EDT 2018
+24,23.5841,0,2,4-Wheel Drive,Premium,Premium Gasoline,40092,Jeep,New Wrangler 4WD,Small Sport Utility Vehicle 4WD,2018,Hybrid,48V Li-Ion,Mon May 07 00:00:00 EDT 2018,Tue Jun 05 00:00:00 EDT 2018
+22,22.4718,0,2,4-Wheel Drive,Premium,Premium Gasoline,40093,Jeep,New Wrangler Unlimited 4WD,Small Sport Utility Vehicle 4WD,2018,Hybrid,48V Li-Ion,Mon May 07 00:00:00 EDT 2018,Tue Jun 05 00:00:00 EDT 2018
+29,28.6741,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,40237,Buick,LaCrosse eAssist,Midsize Cars,2019,Hybrid,86V Li-Ion,Wed Jun 13 00:00:00 EDT 2018,Fri Aug 10 00:00:00 EDT 2018
+31,31.4041,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,40287,Lexus,NX 300h AWD,Small Sport Utility Vehicle 4WD,2019,Hybrid,245V Ni-MH,Wed Jun 13 00:00:00 EDT 2018,Fri Aug 10 00:00:00 EDT 2018
+28,28,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,40350,Acura,RLX Hybrid,Midsize Cars,2019,Hybrid,259V Li-Ion,Tue Jul 03 00:00:00 EDT 2018,Wed Apr 10 00:00:00 EDT 2019
+52,51.9827,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,40351,Honda,Insight,Midsize Cars,2019,Hybrid,222V Li-Ion,Tue Jul 03 00:00:00 EDT 2018,Fri Nov 09 00:00:00 EST 2018
+48,47.975,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,40352,Honda,Insight Touring,Midsize Cars,2019,Hybrid,222V Li-Ion,Tue Jul 03 00:00:00 EDT 2018,Fri Nov 09 00:00:00 EST 2018
+19,19.0135,0,5.7,Rear-Wheel Drive,Midgrade,Midgrade Gasoline,40394,Ram,1500 2WD,Standard Pickup Trucks 2WD,2019,Hybrid,48V Li-Ion,Tue Jul 17 00:00:00 EDT 2018,Tue Jan 29 00:00:00 EST 2019
+19,18.7854,0,5.7,4-Wheel Drive,Midgrade,Midgrade Gasoline,40397,Ram,1500 4WD,Standard Pickup Trucks 4WD,2019,Hybrid,48V Li-Ion,Tue Jul 17 00:00:00 EDT 2018,Tue Jan 29 00:00:00 EST 2019
+55,54.5885,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,40535,Hyundai,Ioniq,Large Cars,2019,Hybrid,240V Li-Ion,Fri Aug 10 00:00:00 EDT 2018,Mon Dec 03 00:00:00 EST 2018
+58,57.7824,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,40536,Hyundai,Ioniq Blue,Large Cars,2019,Hybrid,240V Li-Ion,Fri Aug 10 00:00:00 EDT 2018,Mon Dec 03 00:00:00 EST 2018
+46,46.2114,0,1.5,Front-Wheel Drive,Regular,Regular Gasoline,40596,Toyota,Prius c,Compact Cars,2019,Hybrid,144V Ni-MH,Fri Aug 24 00:00:00 EDT 2018,Mon Dec 03 00:00:00 EST 2018
+27,26.8123,0,3,All-Wheel Drive,Premium,Premium Gasoline,40623,Acura,MDX Hybrid AWD,Small Sport Utility Vehicle 4WD,2019,Hybrid,259V Li-Ion,Fri Aug 24 00:00:00 EDT 2018,Fri Sep 21 00:00:00 EDT 2018
+42,42,0,2,Front-Wheel Drive,Regular,Regular Gasoline,40703,Ford,Fusion Hybrid FWD,Midsize Cars,2019,Hybrid,280V Li-Ion,Tue Sep 11 00:00:00 EDT 2018,Tue Dec 18 00:00:00 EST 2018
+41,41,0,2,Front-Wheel Drive,Regular,Regular Gasoline,40704,Ford,Fusion Hybrid Taxi,Midsize Cars,2019,Hybrid,280V Li-Ion,Tue Sep 11 00:00:00 EDT 2018,Tue Dec 18 00:00:00 EST 2018
+44,44.1781,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,40713,Lexus,ES 300h,Midsize Cars,2019,Hybrid,245V Ni-MH,Tue Sep 11 00:00:00 EDT 2018,Tue Dec 18 00:00:00 EST 2018
+41,41,0,2,Front-Wheel Drive,Regular,Regular Gasoline,40718,Lincoln,MKZ Hybrid FWD,Midsize Cars,2019,Hybrid,280V Li-Ion,Tue Sep 11 00:00:00 EDT 2018,Wed Oct 03 00:00:00 EDT 2018
+52,51.7504,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,40720,Toyota,Camry Hybrid LE,Midsize Cars,2019,Hybrid,259V Li-Ion,Tue Sep 11 00:00:00 EDT 2018,Wed Oct 03 00:00:00 EDT 2018
+46,46.2351,0,2.5,Front-Wheel Drive,Regular,Regular Gasoline,40721,Toyota,Camry Hybrid XLE/SE,Midsize Cars,2019,Hybrid,245V Ni-MH,Tue Sep 11 00:00:00 EDT 2018,Wed Oct 03 00:00:00 EDT 2018
+22,21.8024,0,3.6,Rear-Wheel Drive,Regular,Regular Gasoline,40736,Ram,1500 2WD,Standard Pickup Trucks 2WD,2019,Hybrid,48V Li-Ion,Tue Sep 11 00:00:00 EDT 2018,Tue Jan 29 00:00:00 EST 2019
+21,21.242,0,3.6,4-Wheel Drive,Regular,Regular Gasoline,40737,Ram,1500 4WD,Standard Pickup Trucks 4WD,2019,Hybrid,48V Li-Ion,Tue Sep 11 00:00:00 EDT 2018,Tue Jan 29 00:00:00 EST 2019
+29,29,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,40760,Lexus,RX 450h L AWD,Standard Sport Utility Vehicle 4WD,2019,Hybrid,288V Ni-MH,Tue Sep 11 00:00:00 EDT 2018,Tue Dec 18 00:00:00 EST 2018
+28,28.4359,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,40766,Toyota,Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,2019,Hybrid,288V Ni-MH,Tue Sep 11 00:00:00 EDT 2018,Mon Dec 03 00:00:00 EST 2018
+29,28.9073,0,3.5,All-Wheel Drive,Regular,Regular Gasoline,40767,Toyota,Highlander Hybrid AWD LE Plus,Standard Sport Utility Vehicle 4WD,2019,Hybrid,288V Ni-MH,Tue Sep 11 00:00:00 EDT 2018,Mon Dec 03 00:00:00 EST 2018
+41,41.3755,0,2,Front-Wheel Drive,Regular,Regular Gasoline,40777,Kia,Optima Hybrid,Midsize Cars,2019,Hybrid,270V Li-Ion,Fri Sep 21 00:00:00 EDT 2018,Mon Dec 03 00:00:00 EST 2018
+49,48.6987,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,40786,Kia,Niro,Small Station Wagons,2019,Hybrid,240V Li-Ion,Fri Sep 21 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+43,43.175,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,40787,Kia,Niro Touring,Small Station Wagons,2019,Hybrid,240V Li-Ion,Fri Sep 21 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+50,50.4101,0,1.6,Front-Wheel Drive,Regular,Regular Gasoline,40788,Kia,Niro FE,Small Station Wagons,2019,Hybrid,240V Li-Ion,Fri Sep 21 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+34,34.4284,0,2,Front-Wheel Drive,Regular,Regular Gasoline,40798,Nissan,Rogue Hybrid  FWD,Small Sport Utility Vehicle 2WD,2019,Hybrid,202V Li-Ion,Fri Sep 21 00:00:00 EDT 2018,Tue Dec 18 00:00:00 EST 2018
+33,32.6268,0,2,All-Wheel Drive,Regular,Regular Gasoline,40801,Nissan,Rogue Hybrid  AWD,Small Sport Utility Vehicle 4WD,2019,Hybrid,202V Li-Ion,Fri Sep 21 00:00:00 EDT 2018,Tue Dec 18 00:00:00 EST 2018
+30,29.7729,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,40808,Lexus,RX 450h AWD,Standard Sport Utility Vehicle 4WD,2019,Hybrid,288V Ni-MH,Fri Sep 21 00:00:00 EDT 2018,Tue Dec 18 00:00:00 EST 2018
+21,21,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,40831,Acura,NSX Hybrid,Two Seaters,2019,Hybrid,260V Li-Ion,Wed Oct 03 00:00:00 EDT 2018,Tue Dec 18 00:00:00 EST 2018
+30,29.6181,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,40834,Lexus,LC 500h,Subcompact Cars,2019,Hybrid,311V Li-Ion,Wed Oct 03 00:00:00 EDT 2018,Tue Dec 18 00:00:00 EST 2018
+46,46.3689,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,40842,Chevrolet,Malibu Hybrid,Midsize Cars,2019,Hybrid,300V Li-Ion,Wed Oct 03 00:00:00 EDT 2018,Tue Jan 29 00:00:00 EST 2019
+28,27.99,0,3.5,Rear-Wheel Drive,Premium,Premium Gasoline,40879,Lexus,LS 500h,Midsize Cars,2019,Hybrid,311V Li-Ion,Wed Oct 17 00:00:00 EDT 2018,Tue Apr 16 00:00:00 EDT 2019
+26,25.8302,0,3.5,All-Wheel Drive,Premium,Premium Gasoline,40880,Lexus,LS 500h AWD,Midsize Cars,2019,Hybrid,311V Li-Ion,Wed Oct 17 00:00:00 EDT 2018,Mon Dec 03 00:00:00 EST 2018
+19,18.8003,0,3,All-Wheel Drive,Premium,Premium Gasoline,40920,Audi,Q8,Standard Sport Utility Vehicle 4WD,2019,Hybrid,48V Li-Ion,Wed Oct 17 00:00:00 EDT 2018,Tue Feb 26 00:00:00 EST 2019
+23,23.3607,0,3,4-Wheel Drive,Premium,Premium Gasoline,40931,Mercedes-Benz,AMG E53 4matic Plus Coupe,Subcompact Cars,2019,Hybrid,48V Li-Ion,Fri Nov 02 00:00:00 EDT 2018,Tue Apr 16 00:00:00 EDT 2019
+23,23.4607,0,3,4-Wheel Drive,Premium,Premium Gasoline,40933,Mercedes-Benz,AMG CLS53 4matic Plus,Compact Cars,2019,Hybrid,48V Li-Ion,Fri Nov 02 00:00:00 EDT 2018,Tue Apr 16 00:00:00 EDT 2019
+26,26.4979,0,3,Rear-Wheel Drive,Premium,Premium Gasoline,40934,Mercedes-Benz,CLS450,Compact Cars,2019,Hybrid,48V Li-Ion,Fri Nov 02 00:00:00 EDT 2018,Tue Apr 16 00:00:00 EDT 2019
+26,25.7655,0,3,4-Wheel Drive,Premium,Premium Gasoline,40935,Mercedes-Benz,CLS450 4matic,Compact Cars,2019,Hybrid,48V Li-Ion,Fri Nov 02 00:00:00 EDT 2018,Tue Apr 16 00:00:00 EDT 2019
+24,24.01,0,3,4-Wheel Drive,Premium,Premium Gasoline,40941,Mercedes-Benz,AMG E53 4matic Plus,Midsize Cars,2019,Hybrid,48V Li-Ion,Fri Nov 02 00:00:00 EDT 2018,Tue Apr 16 00:00:00 EDT 2019
+22,21.8276,0,3,All-Wheel Drive,Premium,Premium Gasoline,40942,Audi,A8 L,Large Cars,2019,Hybrid,48V Li-Ion,Fri Nov 02 00:00:00 EDT 2018,Mon Dec 03 00:00:00 EST 2018
+48,48.4664,0,2,Front-Wheel Drive,Regular,Regular Gasoline,40943,Honda,Accord Hybrid,Large Cars,2019,Hybrid,259V Li-Ion,Fri Nov 02 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+24,23.5815,0,2,4-Wheel Drive,Regular,Regular Gasoline,40965,Jeep,Wrangler 4WD,Small Sport Utility Vehicle 4WD,2019,Hybrid,48V Li-Ion,Fri Nov 02 00:00:00 EDT 2018,Tue Feb 26 00:00:00 EST 2019
+22,22.4718,0,2,4-Wheel Drive,Regular,Regular Gasoline,40968,Jeep,Wrangler Unlimited 4WD,Small Sport Utility Vehicle 4WD,2019,Hybrid,48V Li-Ion,Fri Nov 02 00:00:00 EDT 2018,Tue Feb 26 00:00:00 EST 2019
+23,22.5517,0,3,4-Wheel Drive,Premium,Premium Gasoline,41001,Mercedes-Benz,AMG E53 4matic Plus Convertible,Subcompact Cars,2019,Hybrid,48V Li-Ion,Fri Nov 09 00:00:00 EST 2018,Thu May 02 00:00:00 EDT 2019
+25,24.6075,0,3,All-Wheel Drive,Premium,Premium Gasoline,41008,Audi,A7 quattro,Midsize Cars,2019,Hybrid,48V Li-Ion,Fri Nov 09 00:00:00 EST 2018,Mon Dec 03 00:00:00 EST 2018
+25,24.6075,0,3,All-Wheel Drive,Premium,Premium Gasoline,41009,Audi,A6 quattro,Midsize Cars,2019,Hybrid,48V Li-Ion,Fri Nov 09 00:00:00 EST 2018,Mon Dec 03 00:00:00 EST 2018
+41,41,0,2,Front-Wheel Drive,Regular,Regular Gasoline,41049,Hyundai,Sonata Hybrid,Midsize Cars,2019,Hybrid,270V Li-Ion,Mon Nov 19 00:00:00 EST 2018,Wed Jan 23 00:00:00 EST 2019
+42,42,0,2,Front-Wheel Drive,Regular,Regular Gasoline,41050,Hyundai,Sonata Hybrid SE,Midsize Cars,2019,Hybrid,270V Li-Ion,Mon Nov 19 00:00:00 EST 2018,Wed Jan 23 00:00:00 EST 2019
+42,42.0612,0,2,Front-Wheel Drive,Regular,Regular Gasoline,41159,Lexus,UX 250h,Compact Cars,2019,Hybrid,216V Ni-MH,Tue Jan 29 00:00:00 EST 2019,Tue Feb 26 00:00:00 EST 2019
+39,39,0,2,All-Wheel Drive,Regular,Regular Gasoline,41160,Lexus,UX 250h AWD,Compact Cars,2019,Hybrid,216V Ni-MH,Tue Jan 29 00:00:00 EST 2019,Tue Feb 26 00:00:00 EST 2019
+52,52.3985,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,41161,Toyota,Prius,Midsize Cars,2019,Hybrid,207V Li-Ion,Tue Jan 29 00:00:00 EST 2019,Tue Apr 16 00:00:00 EDT 2019
+50,50,0,1.8,Part-time 4-Wheel Drive,Regular,Regular Gasoline,41162,Toyota,Prius AWD,Midsize Cars,2019,Hybrid,202V Ni-MH,Tue Jan 29 00:00:00 EST 2019,Tue Apr 16 00:00:00 EDT 2019
+56,55.7,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,41163,Toyota,Prius Eco,Midsize Cars,2019,Hybrid,207V Li-Ion,Tue Jan 29 00:00:00 EST 2019,Tue Apr 16 00:00:00 EDT 2019
+52,52,0,1.8,Front-Wheel Drive,Regular,Regular Gasoline,41214,Toyota,Corolla Hybrid,Compact Cars,2020,Hybrid,202V Ni-MH,Wed Feb 06 00:00:00 EST 2019,Tue Apr 16 00:00:00 EDT 2019
+21,21.1292,0,3,4-Wheel Drive,Premium,Premium Gasoline,41234,Mercedes-Benz,GLE450 4matic,Standard Sport Utility Vehicle 4WD,2020,Hybrid,48V Li-Ion,Tue Feb 12 00:00:00 EST 2019,Tue Apr 16 00:00:00 EDT 2019
+21,20.9556,0,3,4-Wheel Drive,Premium,Premium Gasoline,41253,Mercedes-Benz,AMG GT 53 4matic Plus,Compact Cars,2019,Hybrid,48V Li-Ion,Tue Feb 26 00:00:00 EST 2019,Tue Feb 26 00:00:00 EST 2019
+23,22.5459,0,3.6,Rear-Wheel Drive,Regular,Regular Gasoline,41273,Ram,1500 HFE 2WD,Standard Pickup Trucks 2WD,2019,Hybrid,48V Li-Ion,Wed Mar 13 00:00:00 EDT 2019,Wed Mar 13 00:00:00 EDT 2019
+40,40.1834,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,41307,Toyota,RAV4 Hybrid AWD,Small Sport Utility Vehicle 4WD,2019,Hybrid,245V Ni-MH,Tue Mar 26 00:00:00 EDT 2019,Tue Apr 16 00:00:00 EDT 2019
+42,41.9107,0,2,Front-Wheel Drive,Regular,Regular Gasoline,41437,Kia,Optima Hybrid,Midsize Cars,2020,Hybrid,270V Li-Ion,Tue May 28 00:00:00 EDT 2019,Tue May 28 00:00:00 EDT 2019
+31,31,0,2.5,All-Wheel Drive,Regular,Regular Gasoline,41481,Lexus,NX 300h AWD,Small Sport Utility Vehicle 4WD,2020,Hybrid,245V Ni-MH,Tue Jun 04 00:00:00 EDT 2019,Tue Jun 04 00:00:00 EDT 2019
+37,0,36,1.4,Front-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,30980,Chevrolet,Volt,Compact Cars,2011,Plug-in Hybrid,111 kW,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+37,36.8746,36,1.4,Front-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,31618,Chevrolet,Volt,Compact Cars,2012,Plug-in Hybrid,111 kW,Tue Jan 01 00:00:00 EST 2013,Wed Apr 05 00:00:00 EDT 2017
+50,49.7021,29,1.8,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,32484,Toyota,Prius Plug-in Hybrid,Midsize Cars,2012,Plug-in Hybrid,18 kW,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+20,20.4572,62.1,2,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,32516,Fisker,Karma,Subcompact Cars,2012,Plug-in Hybrid,2 @ 150 kw (300 kw),Tue Jan 01 00:00:00 EST 2013,Fri Sep 01 00:00:00 EDT 2017
+37,36.9,35,1.4,Front-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,32655,Chevrolet,Volt,Compact Cars,2013,Plug-in Hybrid,111 kW,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+50,49.7021,29,1.8,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,33335,Toyota,Prius Plug-in Hybrid,Midsize Cars,2013,Plug-in Hybrid,18 kW,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38.4528,37,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,33336,Ford,C-MAX Energi Plug-in Hybrid,Midsize Cars,2013,Plug-in Hybrid,68 kW,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38.4528,37,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,33398,Ford,Fusion Energi Plug-in Hybrid,Midsize Cars,2013,Plug-in Hybrid,68 kW,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+46,46.134,29,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,33557,Honda,Accord Plug-in Hybrid,Midsize Cars,2014,Plug-in Hybrid,124 kW,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+37,36.9,35,1.4,Front-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,33900,Chevrolet,Volt,Compact Cars,2014,Plug-in Hybrid,111 kW,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38.4528,37,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,34089,Ford,Fusion Energi Plug-in Hybrid,Midsize Cars,2014,Plug-in Hybrid,68 kW,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+50,49.7021,29,1.8,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,34516,Toyota,Prius Plug-in Hybrid,Midsize Cars,2014,Plug-in Hybrid,18 kW,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016
+38,38.4528,37,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,34662,Ford,C-MAX Energi Plug-in Hybrid,Midsize Cars,2014,Plug-in Hybrid,68 kW,Mon Jan 13 00:00:00 EST 2014,Mon Sep 26 00:00:00 EDT 2016
+33,33,41,1.4,Front-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,34770,Cadillac,ELR,Subcompact Cars,2014,Plug-in Hybrid,126 kW,Fri Feb 28 00:00:00 EST 2014,Mon Sep 26 00:00:00 EDT 2016
+25,25.2387,52,3,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,34789,Porsche,Panamera S E-Hybrid,Large Cars,2014,Plug-in Hybrid,70 kW,Wed Apr 02 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+22,21.7,50,4.6,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,34856,Porsche,918 Spyder,Two Seaters,2015,Plug-in Hybrid,95 kW and 116 kW DC Brushless,Fri Apr 11 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017
+37,36.9,35,1.4,Front-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,35246,Chevrolet,Volt,Compact Cars,2015,Plug-in Hybrid,111 kW 3-Phase AC,Mon Jul 07 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+38,38.4528,37,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,35277,Ford,Fusion Energi Plug-in Hybrid,Midsize Cars,2015,Plug-in Hybrid,68 kW DCPM,Wed Jul 16 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+25,25.2605,52,3,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,35278,Porsche,Panamera S E-Hybrid,Large Cars,2015,Plug-in Hybrid,70 kW DC Brushless,Wed Jul 16 00:00:00 EDT 2014,Fri Sep 01 00:00:00 EDT 2017
+39,39.485,29,0.6,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,35279,BMW,i3 REX,Subcompact Cars,2014,Plug-in Hybrid,125kW,Thu Jul 17 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+33,33,41,1.4,Front-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,35317,Cadillac,ELR,Subcompact Cars,2015,Plug-in Hybrid,126 kW 3-Phase AC,Wed Jul 23 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+50,49.7021,29,1.8,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,35598,Toyota,Prius Plug-in Hybrid,Midsize Cars,2015,Plug-in Hybrid,18 kW AC Induction,Wed Aug 20 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+28,28.4624,43,1.5,All-Wheel Drive,Premium and Electricity,Premium Gasoline,35599,BMW,i8,Subcompact Cars,2014,Plug-in Hybrid,96kW,Wed Aug 20 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+17,17.4178,25,3.8,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,35600,McLaren Automotive,P1,Two Seaters,2014,Plug-in Hybrid,132kW,Wed Aug 27 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+17,17.4178,25,3.8,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,35652,McLaren Automotive,P1,Two Seaters,2015,Plug-in Hybrid,132 kW AC Synchronous,Thu Sep 04 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+38,38.4528,37,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,35765,Ford,C-MAX Energi Plug-in Hybrid,Midsize Cars,2015,Plug-in Hybrid,68 kW DCPM,Thu Sep 25 00:00:00 EDT 2014,Mon Sep 26 00:00:00 EDT 2016
+22,22.1,69,3,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,35896,Porsche,Cayenne S e-Hybrid,Standard Sport Utility Vehicle 4WD,2015,Plug-in Hybrid,70 kW DC Brushless,Thu Nov 06 00:00:00 EST 2014,Wed Apr 05 00:00:00 EDT 2017
+39,39.485,29,0.6,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,36030,BMW,i3 REX,Subcompact Cars,2015,Plug-in Hybrid,125kW,Wed Feb 18 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+28,28.4624,43,1.5,All-Wheel Drive,Premium and Electricity,Premium Gasoline,36031,BMW,i8,Subcompact Cars,2015,Plug-in Hybrid,96kW,Wed Feb 18 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+38,38.4528,37,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,36248,Ford,Fusion Energi Plug-in Hybrid,Midsize Cars,2016,Plug-in Hybrid,68 kW DCPM,Thu May 21 00:00:00 EDT 2015,Fri Sep 01 00:00:00 EDT 2017
+26,26.1402,59,3,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,36515,Mercedes-Benz,S550e,Large Cars,2015,Plug-in Hybrid,85 kW DCPM,Wed Sep 16 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+22,22.1,69,3,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,36709,Porsche,Cayenne S e-Hybrid,Standard Sport Utility Vehicle 4WD,2016,Plug-in Hybrid,70 kW DC Brushless,Mon Jul 27 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+25,25.2605,51,3,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,36710,Porsche,Panamera S E-Hybrid,Large Cars,2016,Plug-in Hybrid,70 kW DC Brushless,Mon Jul 27 00:00:00 EDT 2015,Fri Sep 01 00:00:00 EDT 2017
+32,31.8,39,1.4,Front-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,36862,Cadillac,ELR,Subcompact Cars,2016,Plug-in Hybrid,55 and 174kW 3-Phase AC,Mon Aug 31 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+42,42.2,31,1.5,Front-Wheel Drive,Regular Gas or Electricity,Regular Gasoline,36863,Chevrolet,Volt,Compact Cars,2016,Plug-in Hybrid,48 and 87 kW 3-Phase AC,Mon Aug 31 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+38,38.4528,37,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,36932,Ford,C-MAX Energi Plug-in Hybrid,Midsize Cars,2016,Plug-in Hybrid,68 kW DCPM,Wed Sep 09 00:00:00 EDT 2015,Mon Aug 28 00:00:00 EDT 2017
+40,39.5843,34,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,36998,Hyundai,Sonata Plug-in Hybrid,Midsize Cars,2016,Plug-in Hybrid,50 kW IPMSM,Fri Oct 02 00:00:00 EDT 2015,Wed Apr 05 00:00:00 EDT 2017
+24,23.8712,59,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,37068,BMW,X5 xDrive40e,Standard Sport Utility Vehicle 4WD,2016,Plug-in Hybrid,83 kW AC Induction,Mon Oct 19 00:00:00 EDT 2015,Mon Sep 26 00:00:00 EDT 2016
+35,34.5683,40,1.4,Front-Wheel Drive,Premium and Electricity,Premium Gasoline,37129,Audi,A3 e-tron,Compact Cars,2016,Plug-in Hybrid,80 kW DCPM,Thu Nov 12 00:00:00 EST 2015,Wed Apr 05 00:00:00 EDT 2017
+39,39,38,1.4,Front-Wheel Drive,Premium and Electricity,Premium Gasoline,37130,Audi,A3 e-tron ultra,Compact Cars,2016,Plug-in Hybrid,80 kW DCPM,Thu Nov 12 00:00:00 EST 2015,Wed Aug 16 00:00:00 EDT 2017
+30,30,43,1.4,Front-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,37131,Cadillac,ELR Sport,Subcompact Cars,2016,Plug-in Hybrid,55 and 174kW 3-Phase AC,Thu Nov 12 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+26,26.1402,59,3,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,37161,Mercedes-Benz,S550e,Large Cars,2016,Plug-in Hybrid,85 kW DCPM,Thu Dec 10 00:00:00 EST 2015,Mon Sep 26 00:00:00 EDT 2016
+39,39.4492,29,0.6,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,37222,BMW,i3 REX,Subcompact Cars,2016,Plug-in Hybrid,125kW,Wed Jan 13 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+28,28.4624,43,1.5,All-Wheel Drive,Premium and Electricity,Premium Gasoline,37223,BMW,i8,Subcompact Cars,2016,Plug-in Hybrid,96kW,Wed Jan 13 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+25,25.0465,58,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,37224,Volvo,XC90 AWD PHEV,Standard Sport Utility Vehicle 4WD,2016,Plug-in Hybrid,34 and 65kW DCPM,Wed Jan 13 00:00:00 EST 2016,Mon Aug 28 00:00:00 EDT 2017
+31,31.0051,47,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,37289,BMW,330e,Compact Cars,2016,Plug-in Hybrid,65kW,Wed Mar 02 00:00:00 EST 2016,Mon Sep 26 00:00:00 EDT 2016
+42,42.2,31,1.5,Front-Wheel Drive,Regular Gas or Electricity,Regular Gasoline,37309,Chevrolet,Volt,Compact Cars,2017,Plug-in Hybrid,48 and 87 kW 3-Phase AC,Thu Mar 17 00:00:00 EDT 2016,Wed Jul 05 00:00:00 EDT 2017
+42,41.9135,35,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,37470,Ford,Fusion Energi Plug-in Hybrid,Midsize Cars,2017,Plug-in Hybrid,68 kW DCPM,Fri May 27 00:00:00 EDT 2016,Wed Jul 05 00:00:00 EDT 2017
+21,21.1259,68,3,4-Wheel Drive,Premium and Electricity,Premium Gasoline,37526,Mercedes-Benz,GLE550e 4matic,Standard Sport Utility Vehicle 4WD,2016,Plug-in Hybrid,85 kW DCPM,Fri Jun 03 00:00:00 EDT 2016,Tue Apr 11 00:00:00 EDT 2017
+25,25.0718,60,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,37703,Volvo,XC90 AWD PHEV,Standard Sport Utility Vehicle 4WD,2017,Plug-in Hybrid,34 and 65kW DCPM,Thu Jul 07 00:00:00 EDT 2016,Mon Aug 28 00:00:00 EDT 2017
+22,22.1658,71,3,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,37799,Porsche,Cayenne S e-Hybrid,Standard Sport Utility Vehicle 4WD,2017,Plug-in Hybrid,70 kW DC Brushless,Wed Jul 20 00:00:00 EDT 2016,Wed Apr 05 00:00:00 EDT 2017
+27,26.7381,52,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,38045,BMW,740e xDrive,Large Cars,2017,Plug-in Hybrid,83kW DCPM,Wed Aug 17 00:00:00 EDT 2016,Wed Jul 05 00:00:00 EDT 2017
+39,38.5993,34,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,38046,Hyundai,Sonata Plug-in Hybrid,Midsize Cars,2017,Plug-in Hybrid,50 kW IPMSM,Wed Aug 17 00:00:00 EDT 2016,Wed Jul 05 00:00:00 EDT 2017
+30,30.3998,47,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,38081,BMW,330e,Compact Cars,2017,Plug-in Hybrid,83kW DCPM,Thu Aug 25 00:00:00 EDT 2016,Wed Jul 05 00:00:00 EDT 2017
+24,23.8111,59,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,38169,BMW,X5 xDrive40e,Standard Sport Utility Vehicle 4WD,2017,Plug-in Hybrid,83 kW AC Induction,Tue Sep 13 00:00:00 EDT 2016,Fri Nov 03 00:00:00 EDT 2017
+34,33.9,41,1.4,Front-Wheel Drive,Premium and Electricity,Premium Gasoline,38228,Audi,A3 e-tron,Compact Cars,2017,Plug-in Hybrid,80 kW DCPM,Mon Sep 26 00:00:00 EDT 2016,Wed Jul 05 00:00:00 EDT 2017
+35,34.8551,30,0.6,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,38229,BMW,i3 REX  (94 Amp-hour battery),Subcompact Cars,2017,Plug-in Hybrid,125kW AC Induction,Mon Sep 26 00:00:00 EDT 2016,Thu Sep 21 00:00:00 EDT 2017
+28,28.4624,43,1.5,All-Wheel Drive,Premium and Electricity,Premium Gasoline,38230,BMW,i8,Subcompact Cars,2017,Plug-in Hybrid,96kW AC Induction,Mon Sep 26 00:00:00 EDT 2016,Thu Sep 21 00:00:00 EDT 2017
+40,39.9504,33,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,38406,Kia,Optima Plug-in Hybrid,Midsize Cars,2017,Plug-in Hybrid,50kW IPMSM,Mon Nov 07 00:00:00 EST 2016,Wed Jul 05 00:00:00 EDT 2017
+21,21.1179,69,3,4-Wheel Drive,Premium and Electricity,Premium Gasoline,38459,Mercedes-Benz,GLE550e 4matic,Standard Sport Utility Vehicle 4WD,2017,Plug-in Hybrid,85 kW DCPM,Tue Nov 22 00:00:00 EST 2016,Wed Jul 05 00:00:00 EDT 2017
+26,25.9,59,3,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,38460,Mercedes-Benz,S550e,Large Cars,2017,Plug-in Hybrid,85 kW DCPM,Tue Nov 22 00:00:00 EST 2016,Wed Jul 05 00:00:00 EDT 2017
+32,32.3133,40,3.6,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,38491,Chrysler,Pacifica Hybrid,Minivan - 2WD,2017,Plug-in Hybrid,89 kW AC Induction,Fri Dec 02 00:00:00 EST 2016,Mon Aug 28 00:00:00 EDT 2017
+30,30.1,56,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,38499,Mercedes-Benz,C350e,Compact Cars,2016,Plug-in Hybrid,60 kW DCPM,Mon Dec 12 00:00:00 EST 2016,Mon Dec 12 00:00:00 EST 2016
+39,39.3992,35,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,38506,Ford,C-MAX Energi Plug-In Hybrid,Midsize Cars,2017,Plug-in Hybrid,68 kW DCPM,Fri Dec 16 00:00:00 EST 2016,Wed Jul 05 00:00:00 EDT 2017
+54,54.4329,25,1.8,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,38531,Toyota,Prius Prime,Midsize Cars,2017,Plug-in Hybrid,16 and 37 kW AC Induction,Wed Jan 11 00:00:00 EST 2017,Tue Dec 05 00:00:00 EST 2017
+26,25.5,54,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,38650,Cadillac,CT6 Plug-In,Midsize Cars,2017,Plug-in Hybrid,59 and 61kW 3-Phase AC,Wed Apr 19 00:00:00 EDT 2017,Wed Oct 03 00:00:00 EDT 2018
+29,28.7869,46,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,38754,BMW,530e,Compact Cars,2018,Plug-in Hybrid,83kW DCPM,Wed May 24 00:00:00 EDT 2017,Mon Feb 26 00:00:00 EST 2018
+28,28.3364,49,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,38755,BMW,530e xDrive,Compact Cars,2018,Plug-in Hybrid,83kW DCPM,Wed May 24 00:00:00 EDT 2017,Mon Feb 26 00:00:00 EST 2018
+27,26.7381,52,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,38770,BMW,740e xDrive,Large Cars,2018,Plug-in Hybrid,83kW DCPM,Mon Jun 05 00:00:00 EDT 2017,Mon Feb 26 00:00:00 EST 2018
+27,27.445,51,1.5,All-Wheel Drive,Premium and Electricity,Premium Gasoline,38863,MINI,Cooper SE Countryman All4,Midsize Cars,2018,Plug-in Hybrid,65 kW AC Induction,Mon Jun 26 00:00:00 EDT 2017,Tue May 29 00:00:00 EDT 2018
+30,30.1,56,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,38969,Mercedes-Benz,C350e,Compact Cars,2017,Plug-in Hybrid,60 kW DCPM,Thu Jul 13 00:00:00 EDT 2017,Thu Jul 13 00:00:00 EDT 2017
+42,42.2,31,1.5,Front-Wheel Drive,Regular Gas or Electricity,Regular Gasoline,39190,Chevrolet,Volt,Compact Cars,2018,Plug-in Hybrid,48 and 87 kW 3-Phase AC,Thu Aug 03 00:00:00 EDT 2017,Wed Jan 24 00:00:00 EST 2018
+29,29,45,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,39381,Volvo,S90 AWD PHEV,Midsize Cars,2018,Plug-in Hybrid,34 and 65kW 3-phase Sync.,Mon Aug 28 00:00:00 EDT 2017,Fri Nov 10 00:00:00 EST 2017
+26,26.5,53,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,39382,Volvo,XC60 AWD PHEV,Small Sport Utility Vehicle 4WD,2018,Plug-in Hybrid,34 and 65kW 3-phase Sync.,Mon Aug 28 00:00:00 EDT 2017,Fri Nov 10 00:00:00 EST 2017
+27,27.4,50,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,39383,Volvo,XC90 AWD PHEV,Standard Sport Utility Vehicle 4WD,2018,Plug-in Hybrid,34 and 65kW 3-phase Sync.,Mon Aug 28 00:00:00 EDT 2017,Fri Nov 10 00:00:00 EST 2017
+30,30.3998,47,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,39407,BMW,330e,Compact Cars,2018,Plug-in Hybrid,83kW DCPM,Fri Sep 01 00:00:00 EDT 2017,Mon Feb 26 00:00:00 EST 2018
+42,41.9135,35,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,39408,Ford,Fusion Energi Plug-in Hybrid,Midsize Cars,2018,Plug-in Hybrid,68 kW DCPM,Fri Sep 01 00:00:00 EDT 2017,Fri Nov 10 00:00:00 EST 2017
+20,20.4,56,2,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,39409,Karma,Revero,Subcompact Cars,2018,Plug-in Hybrid,150 and 150 kw DCPM,Fri Sep 01 00:00:00 EDT 2017,Fri Nov 10 00:00:00 EST 2017
+32,32.3133,40,3.6,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,39483,Chrysler,Pacifica Hybrid,Minivan - 2WD,2018,Plug-in Hybrid,89 kW AC Induction,Mon Sep 11 00:00:00 EDT 2017,Fri Nov 03 00:00:00 EDT 2017
+24,23.8111,59,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,39526,BMW,X5 xDrive40e,Standard Sport Utility Vehicle 4WD,2018,Plug-in Hybrid,83 kW AC Induction,Thu Sep 21 00:00:00 EDT 2017,Mon Feb 26 00:00:00 EST 2018
+36,36.386,41,1.4,Front-Wheel Drive,Premium and Electricity,Premium Gasoline,39589,Audi,A3 e-tron,Compact Cars,2018,Plug-in Hybrid,80 kW DCPM,Wed Oct 04 00:00:00 EDT 2017,Fri Nov 10 00:00:00 EST 2017
+21,21.1179,69,3,4-Wheel Drive,Premium and Electricity,Premium Gasoline,39742,Mercedes-Benz,GLE550e 4matic,Standard Sport Utility Vehicle 4WD,2018,Plug-in Hybrid,85 kW DCPM,Fri Nov 10 00:00:00 EST 2017,Mon Feb 12 00:00:00 EST 2018
+25,25.5,54,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,39767,Cadillac,CT6 Plug-In,Midsize Cars,2018,Plug-in Hybrid,59 and 61 kW 3-Phase AC,Tue Nov 28 00:00:00 EST 2017,Tue Nov 28 00:00:00 EST 2017
+52,52.3231,28,1.6,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,39768,Hyundai,Ioniq Plug-in Hybrid,Midsize Cars,2018,Plug-in Hybrid,32kW IPMSM,Tue Nov 28 00:00:00 EST 2017,Wed Jan 24 00:00:00 EST 2018
+42,42.1,31,1.5,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,39782,Honda,Clarity Plug-in Hybrid,Midsize Cars,2018,Plug-in Hybrid,135kW AC PMSM,Tue Dec 05 00:00:00 EST 2017,Tue Dec 05 00:00:00 EST 2017
+40,39.9504,33,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,39783,Kia,Optima Plug-in Hybrid,Midsize Cars,2018,Plug-in Hybrid,50kW IPMSM,Tue Dec 05 00:00:00 EST 2017,Tue Dec 05 00:00:00 EST 2017
+46,46.4,32,1.6,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,39799,Kia,Niro Plug-in Hybrid,Small Station Wagons,2018,Plug-in Hybrid,32kW IPMSM,Thu Dec 14 00:00:00 EST 2017,Wed Dec 20 00:00:00 EST 2017
+25,25,45,2,All-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,39830,Mitsubishi,Outlander PHEV,Small Sport Utility Vehicle 4WD,2018,Plug-in Hybrid,60 kW DCPM,Wed Jan 03 00:00:00 EST 2018,Wed Jan 24 00:00:00 EST 2018
+35,34.5356,31,0.6,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,39834,BMW,i3 (94Ah) with Range Extender,Subcompact Cars,2018,Plug-in Hybrid,125 kW AC Induction,Thu Jan 11 00:00:00 EST 2018,Mon Feb 26 00:00:00 EST 2018
+35,34.5356,31,0.6,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,39835,BMW,i3s (94Ah) with Range Extender,Subcompact Cars,2018,Plug-in Hybrid,125 kW AC Induction,Thu Jan 11 00:00:00 EST 2018,Wed Feb 06 00:00:00 EST 2019
+30,30.1,56,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,39853,Mercedes-Benz,C350e,Compact Cars,2018,Plug-in Hybrid,60 kW DCPM,Thu Jan 18 00:00:00 EST 2018,Wed Apr 04 00:00:00 EDT 2018
+25,25.4,59,2,4-Wheel Drive,Premium and Electricity,Premium Gasoline,39881,Mercedes-Benz,GLC350e 4matic,Small Sport Utility Vehicle 4WD,2018,Plug-in Hybrid,85 kW DCPM,Mon Feb 12 00:00:00 EST 2018,Fri Aug 24 00:00:00 EDT 2018
+54,54.4329,25,1.8,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,39882,Toyota,Prius Prime,Midsize Cars,2018,Plug-in Hybrid,16 and 37 kW AC Induction,Mon Feb 12 00:00:00 EST 2018,Mon Feb 12 00:00:00 EST 2018
+22,22.1658,70,3,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,39928,Porsche,Cayenne S e-Hybrid,Standard Sport Utility Vehicle 4WD,2018,Plug-in Hybrid,70 kW DC Brushless,Fri Mar 02 00:00:00 EST 2018,Wed Apr 18 00:00:00 EDT 2018
+22,21.7,59,2.9,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,39960,Porsche,Panamera 4 e-Hybrid ST,Large Cars,2018,Plug-in Hybrid,70 kW DC Brushless,Mon Mar 26 00:00:00 EDT 2018,Mon Mar 26 00:00:00 EDT 2018
+21,20.6,67,4,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,40055,Porsche,Panamera Turbo S e-Hybrid,Large Cars,2018,Plug-in Hybrid,70 kW DC Brushless,Tue Apr 10 00:00:00 EDT 2018,Wed Jun 27 00:00:00 EDT 2018
+21,20.6,67,4,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,40056,Porsche,Panamera Turbo S e-Hybrid Executive,Large Cars,2018,Plug-in Hybrid,70 kW DC Brushless,Tue Apr 10 00:00:00 EDT 2018,Wed Jun 27 00:00:00 EDT 2018
+21,20.6,67,4,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,40057,Porsche,Panamera Turbo S e-Hybrid ST,Large Cars,2018,Plug-in Hybrid,70 kW DC Brushless,Tue Apr 10 00:00:00 EDT 2018,Wed Jun 27 00:00:00 EDT 2018
+39,39.4996,34,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,40066,Hyundai,Sonata Plug-in Hybrid,Midsize Cars,2018,Plug-in Hybrid,50 kW IPMSM,Wed Apr 25 00:00:00 EDT 2018,Wed Apr 25 00:00:00 EDT 2018
+27,27.1257,49,1.5,All-Wheel Drive,Premium and Electricity,Premium Gasoline,40079,BMW,I8 Coupe,Subcompact Cars,2019,Plug-in Hybrid,96kW AC Induction,Wed May 02 00:00:00 EDT 2018,Wed May 02 00:00:00 EDT 2018
+27,27.1257,49,1.5,All-Wheel Drive,Premium and Electricity,Premium Gasoline,40080,BMW,I8 Roadster,Two Seaters,2019,Plug-in Hybrid,96kW AC Induction,Wed May 02 00:00:00 EDT 2018,Wed May 02 00:00:00 EDT 2018
+27,27.445,51,1.5,All-Wheel Drive,Premium and Electricity,Premium Gasoline,40157,MINI,Cooper SE Countryman All4,Midsize Cars,2019,Plug-in Hybrid,65 kW AC Induction,Tue May 29 00:00:00 EDT 2018,Thu Aug 30 00:00:00 EDT 2018
+22,21.7,59,2.9,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,40225,Porsche,Panamera 4 e-Hybrid,Large Cars,2018,Plug-in Hybrid,70 kW DC Brushless,Tue Jun 05 00:00:00 EDT 2018,Tue Jun 05 00:00:00 EDT 2018
+22,21.7,59,2.9,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,40226,Porsche,Panamera 4 e-Hybrid Executive,Large Cars,2018,Plug-in Hybrid,70 kW DC Brushless,Tue Jun 05 00:00:00 EDT 2018,Tue Jun 05 00:00:00 EDT 2018
+29,29,45,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,40405,Volvo,S90 AWD PHEV,Midsize Cars,2019,Plug-in Hybrid,34 and 65kW 3-phase Sync.,Tue Jul 17 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+26,26.1,55,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,40406,Volvo,XC60 AWD PHEV,Small Sport Utility Vehicle 4WD,2019,Plug-in Hybrid,34 and 65kW 3-phase Sync.,Tue Jul 17 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+25,25.3,55,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,40407,Volvo,XC90 AWD PHEV,Standard Sport Utility Vehicle 4WD,2019,Plug-in Hybrid,34 and 65kW 3-phase Sync.,Tue Jul 17 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+29,28.6625,46,2,Rear-Wheel Drive,Premium and Electricity,Premium Gasoline,40556,BMW,530e,Compact Cars,2019,Plug-in Hybrid,83kW DCPM,Fri Aug 10 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+28,28.3364,49,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,40557,BMW,530e xDrive,Compact Cars,2019,Plug-in Hybrid,83kW DCPM,Fri Aug 10 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+27,26.7381,52,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,40558,BMW,740e xDrive,Large Cars,2019,Plug-in Hybrid,83kW DCPM,Fri Aug 10 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+42,41.7,33,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,40809,Ford,Fusion Energi Plug-in Hybrid,Midsize Cars,2019,Plug-in Hybrid,68 kW DCPM,Fri Sep 21 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+52,52.3231,28,1.6,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,40810,Hyundai,Ioniq Plug-in Hybrid,Midsize Cars,2019,Plug-in Hybrid,32kW IPMSM,Fri Sep 21 00:00:00 EDT 2018,Fri Sep 21 00:00:00 EDT 2018
+40,40.0054,33,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,40811,Kia,Optima Plug-in Hybrid,Midsize Cars,2019,Plug-in Hybrid,50kW IPMSM,Fri Sep 21 00:00:00 EDT 2018,Fri Sep 21 00:00:00 EDT 2018
+30,29.5207,41,3.6,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,40830,Chrysler,Pacifica Hybrid,Minivan - 2WD,2019,Plug-in Hybrid,89 kW AC Induction,Tue Sep 25 00:00:00 EDT 2018,Tue Sep 25 00:00:00 EDT 2018
+46,46.4,32,1.6,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,40863,Kia,Niro Plug-in Hybrid,Small Station Wagons,2019,Plug-in Hybrid,32kW IPMSM,Wed Oct 03 00:00:00 EDT 2018,Wed Dec 05 00:00:00 EST 2018
+42,42,31,1.5,Front-Wheel Drive,Regular Gas or Electricity,Regular Gasoline,40924,Chevrolet,Volt,Compact Cars,2019,Plug-in Hybrid,48 and 87 kW 3-Phase AC,Wed Oct 17 00:00:00 EDT 2018,Tue Feb 26 00:00:00 EST 2019
+25,25.4,59,2,4-Wheel Drive,Premium and Electricity,Premium Gasoline,41132,Mercedes-Benz,GLC350e 4matic,Small Sport Utility Vehicle 4WD,2019,Plug-in Hybrid,85 kW DCPM,Wed Dec 05 00:00:00 EST 2018,Wed Dec 05 00:00:00 EST 2018
+25,25,45,2,All-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,41133,Mitsubishi,Outlander PHEV,Small Sport Utility Vehicle 4WD,2019,Plug-in Hybrid,60 kW DCPM,Wed Dec 05 00:00:00 EST 2018,Wed Dec 05 00:00:00 EST 2018
+35,35.1,38,2,All-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,41134,Subaru,Crosstrek Hybrid AWD,Small Sport Utility Vehicle 4WD,2019,Plug-in Hybrid,88 kW AC Induction,Wed Dec 05 00:00:00 EST 2018,Tue Dec 18 00:00:00 EST 2018
+39,39.4996,34,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,41144,Hyundai,Sonata Plug-in Hybrid,Midsize Cars,2019,Plug-in Hybrid,50 kW IPMSM,Tue Dec 18 00:00:00 EST 2018,Tue Dec 18 00:00:00 EST 2018
+42,42.1,31,1.5,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,41183,Honda,Clarity Plug-in Hybrid,Midsize Cars,2019,Plug-in Hybrid,135kW AC PMSM,Tue Jan 29 00:00:00 EST 2019,Tue Jan 29 00:00:00 EST 2019
+54,54.4329,25,1.8,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,41184,Toyota,Prius Prime,Midsize Cars,2019,Plug-in Hybrid,16 and 37 kW AC Induction,Tue Jan 29 00:00:00 EST 2019,Tue Jan 29 00:00:00 EST 2019
+31,30.5657,32,0.6,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,41211,BMW,i3 with Range Extender,Subcompact Cars,2019,Plug-in Hybrid,125 kW AC Induction,Wed Feb 06 00:00:00 EST 2019,Tue Feb 12 00:00:00 EST 2019
+31,30.5657,32,0.6,Rear-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,41212,BMW,i3s with Range Extender,Subcompact Cars,2019,Plug-in Hybrid,135 kW AC Induction,Wed Feb 06 00:00:00 EST 2019,Tue Feb 12 00:00:00 EST 2019
+42,41.5474,33,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,41226,Ford,Fusion Special Service Vehicle PHEV,Midsize Cars,2019,Plug-in Hybrid,68 kW DCPM,Tue Feb 12 00:00:00 EST 2019,Tue Feb 12 00:00:00 EST 2019
+31,31,43,2,All-Wheel Drive,Premium and Electricity,Premium Gasoline,41255,Volvo,S60 AWD PHEV,Compact Cars,2019,Plug-in Hybrid,34 and 65kW 3-phase Sync.,Tue Feb 26 00:00:00 EST 2019,Tue Feb 26 00:00:00 EST 2019
+23,22.5,65,2.9,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,41291,Porsche,Panamera 4 e-Hybrid,Large Cars,2019,Plug-in Hybrid,70 kW DC Brushless,Mon Mar 18 00:00:00 EDT 2019,Mon Mar 18 00:00:00 EDT 2019
+23,22.5,65,2.9,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,41292,Porsche,Panamera 4 e-Hybrid Executive,Large Cars,2019,Plug-in Hybrid,70 kW DC Brushless,Mon Mar 18 00:00:00 EDT 2019,Mon Mar 18 00:00:00 EDT 2019
+23,22.5,65,2.9,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,41293,Porsche,Panamera 4 e-Hybrid ST,Large Cars,2019,Plug-in Hybrid,70 kW DC Brushless,Mon Mar 18 00:00:00 EDT 2019,Mon Mar 18 00:00:00 EDT 2019
+20,20.4,66,4,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,41294,Porsche,Panamera Turbo S e-Hybrid,Large Cars,2019,Plug-in Hybrid,70 kW DC Brushless,Mon Mar 18 00:00:00 EDT 2019,Mon Mar 18 00:00:00 EDT 2019
+20,20.4,66,4,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,41295,Porsche,Panamera Turbo S e-Hybrid Executive,Large Cars,2019,Plug-in Hybrid,70 kW DC Brushless,Mon Mar 18 00:00:00 EDT 2019,Mon Mar 18 00:00:00 EDT 2019
+20,20.4,66,4,All-Wheel Drive,Premium Gas or Electricity,Premium Gasoline,41296,Porsche,Panamera Turbo S e-Hybrid ST,Large Cars,2019,Plug-in Hybrid,70 kW DC Brushless,Mon Mar 18 00:00:00 EDT 2019,Mon Mar 18 00:00:00 EDT 2019
+22,21.8005,61,3,All-Wheel Drive,Premium and Electricity,Premium Gasoline,41373,BMW,745e xDrive,Large Cars,2020,Plug-in Hybrid,83 kW AC Induction,Wed Apr 10 00:00:00 EDT 2019,Tue Apr 16 00:00:00 EDT 2019
+54,54.4329,25,1.8,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,41489,Toyota,Prius Prime,Midsize Cars,2020,Plug-in Hybrid,16 and 37 kW AC Induction,Tue Jun 04 00:00:00 EDT 2019,Tue Jun 04 00:00:00 EDT 2019
+41,41.1024,33,2,Front-Wheel Drive,Regular Gas and Electricity,Regular Gasoline,41529,Kia,Optima Plug-in Hybrid,Midsize Cars,2020,Plug-in Hybrid,50kW IPMSM,Tue Jun 18 00:00:00 EDT 2019,Tue Jun 18 00:00:00 EDT 2019
